@@ -34,10 +34,4 @@ The analysis supports quarterly portfolio review, renewal-support planning, geog
 - Three executive-ready visualizations
 - GitHub-ready README and data dictionary
 
-## Interview summary
 
-“I built an RBC-inspired mortgage portfolio monitor from a public CMHC workbook. I cleaned a wide, semi-structured Excel source into 2,430 tidy geography-quarter records, validated the data, loaded it into SQLite, and used SQL window functions and multi-period joins to distinguish high current delinquency from fast deterioration. The analysis showed that Saskatchewan remained high but was improving, while Ontario—especially Barrie, Toronto, and Oshawa—showed much stronger upward momentum. I translated that into a transparent monitoring matrix and business recommendations, while clearly separating aggregate portfolio analytics from individual lending decisions.”
-
-## Suggested next iteration
-
-Join Bank of Canada policy-rate history and Statistics Canada unemployment rates, test 1–8 quarter lags, and compare whether macro changes improve explanation of regional delinquency momentum. Treat the result as exploratory unless validated out of sample.
