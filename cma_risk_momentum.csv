@@ -1,0 +1,35 @@
+geography,quarter,latest_rate_pct,rate_two_years_prior_pct,two_year_change_pp,monitoring_tier
+Barrie,2025Q4,0.34,0.12,0.22,High and rising
+Toronto,2025Q4,0.29,0.12,0.17,High and rising
+Abbotsford-Mission,2025Q4,0.29,0.13,0.16,High and rising
+Oshawa,2025Q4,0.29,0.13,0.16,High and rising
+Peterborough,2025Q4,0.25,0.13,0.12,High and rising
+Brantford,2025Q4,0.27,0.17,0.1,High and rising
+St. Catharines-Niagara,2025Q4,0.26,0.16,0.1,High and rising
+Thunder Bay,2025Q4,0.25,0.15,0.1,High and rising
+Winnipeg,2025Q4,0.25,0.2,0.05,High and rising
+Edmonton,2025Q4,0.28,0.32,-0.04,Elevated but stable/falling
+Saskatoon,2025Q4,0.25,0.29,-0.04,Elevated but stable/falling
+Regina,2025Q4,0.43,0.52,-0.09,Elevated but stable/falling
+London,2025Q4,0.23,0.11,0.12,Lower but rising
+Kitchener-Cambridge-Waterloo,2025Q4,0.21,0.09,0.12,Lower but rising
+Hamilton,2025Q4,0.22,0.11,0.11,Lower but rising
+Windsor,2025Q4,0.22,0.12,0.1,Lower but rising
+Vancouver,2025Q4,0.21,0.12,0.09,Lower but rising
+Guelph,2025Q4,0.18,0.09,0.09,Lower but rising
+Kelowna,2025Q4,0.21,0.13,0.08,Lower but rising
+Charlottetown,2025Q4,0.19,0.11,0.08,Lower but rising
+Kingston,2025Q4,0.18,0.11,0.07,Lower but rising
+Ottawa-Gatineau,2025Q4,0.16,0.11,0.05,Lower but rising
+Sherbrooke,2025Q4,0.13,0.08,0.05,Lower but rising
+Saint John,2025Q4,0.21,0.17,0.04,Lower and stable/falling
+Greater Sudbury,2025Q4,0.18,0.14,0.04,Lower and stable/falling
+Halifax,2025Q4,0.16,0.13,0.03,Lower and stable/falling
+Montréal,2025Q4,0.16,0.13,0.03,Lower and stable/falling
+Victoria,2025Q4,0.1,0.08,0.02,Lower and stable/falling
+Moncton,2025Q4,0.21,0.21,0.0,Lower and stable/falling
+Saguenay,2025Q4,0.21,0.21,0.0,Lower and stable/falling
+Trois-Riviéres,2025Q4,0.13,0.13,0.0,Lower and stable/falling
+Calgary,2025Q4,0.17,0.18,-0.01,Lower and stable/falling
+Québec City,2025Q4,0.11,0.12,-0.01,Lower and stable/falling
+St. John's,2025Q4,0.21,0.27,-0.06,Lower and stable/falling

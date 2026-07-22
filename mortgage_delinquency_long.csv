@@ -1,0 +1,2431 @@
+geography,geography_type,quarter,year,quarter_number,quarter_index,delinquency_rate_pct
+Abbotsford-Mission,cma,2012Q3,2012,3,8051,0.68
+Abbotsford-Mission,cma,2012Q4,2012,4,8052,0.63
+Abbotsford-Mission,cma,2013Q1,2013,1,8053,0.66
+Abbotsford-Mission,cma,2013Q2,2013,2,8054,0.63
+Abbotsford-Mission,cma,2013Q3,2013,3,8055,0.6
+Abbotsford-Mission,cma,2013Q4,2013,4,8056,0.6
+Abbotsford-Mission,cma,2014Q1,2014,1,8057,0.65
+Abbotsford-Mission,cma,2014Q2,2014,2,8058,0.66
+Abbotsford-Mission,cma,2014Q3,2014,3,8059,0.61
+Abbotsford-Mission,cma,2014Q4,2014,4,8060,0.64
+Abbotsford-Mission,cma,2015Q1,2015,1,8061,0.57
+Abbotsford-Mission,cma,2015Q2,2015,2,8062,0.55
+Abbotsford-Mission,cma,2015Q3,2015,3,8063,0.44
+Abbotsford-Mission,cma,2015Q4,2015,4,8064,0.38
+Abbotsford-Mission,cma,2016Q1,2016,1,8065,0.35
+Abbotsford-Mission,cma,2016Q2,2016,2,8066,0.3
+Abbotsford-Mission,cma,2016Q3,2016,3,8067,0.27
+Abbotsford-Mission,cma,2016Q4,2016,4,8068,0.23
+Abbotsford-Mission,cma,2017Q1,2017,1,8069,0.23
+Abbotsford-Mission,cma,2017Q2,2017,2,8070,0.18
+Abbotsford-Mission,cma,2017Q3,2017,3,8071,0.17
+Abbotsford-Mission,cma,2017Q4,2017,4,8072,0.16
+Abbotsford-Mission,cma,2018Q1,2018,1,8073,0.14
+Abbotsford-Mission,cma,2018Q2,2018,2,8074,0.15
+Abbotsford-Mission,cma,2018Q3,2018,3,8075,0.14
+Abbotsford-Mission,cma,2018Q4,2018,4,8076,0.11
+Abbotsford-Mission,cma,2019Q1,2019,1,8077,0.1
+Abbotsford-Mission,cma,2019Q2,2019,2,8078,0.1
+Abbotsford-Mission,cma,2019Q3,2019,3,8079,0.11
+Abbotsford-Mission,cma,2019Q4,2019,4,8080,0.1
+Abbotsford-Mission,cma,2020Q1,2020,1,8081,0.08
+Abbotsford-Mission,cma,2020Q2,2020,2,8082,0.11
+Abbotsford-Mission,cma,2020Q3,2020,3,8083,0.11
+Abbotsford-Mission,cma,2020Q4,2020,4,8084,0.11
+Abbotsford-Mission,cma,2021Q1,2021,1,8085,0.12
+Abbotsford-Mission,cma,2021Q2,2021,2,8086,0.12
+Abbotsford-Mission,cma,2021Q3,2021,3,8087,0.08
+Abbotsford-Mission,cma,2021Q4,2021,4,8088,0.09
+Abbotsford-Mission,cma,2022Q1,2022,1,8089,0.07
+Abbotsford-Mission,cma,2022Q2,2022,2,8090,0.06
+Abbotsford-Mission,cma,2022Q3,2022,3,8091,0.07
+Abbotsford-Mission,cma,2022Q4,2022,4,8092,0.07
+Abbotsford-Mission,cma,2023Q1,2023,1,8093,0.07
+Abbotsford-Mission,cma,2023Q2,2023,2,8094,0.08
+Abbotsford-Mission,cma,2023Q3,2023,3,8095,0.11
+Abbotsford-Mission,cma,2023Q4,2023,4,8096,0.13
+Abbotsford-Mission,cma,2024Q1,2024,1,8097,0.19
+Abbotsford-Mission,cma,2024Q2,2024,2,8098,0.2
+Abbotsford-Mission,cma,2024Q3,2024,3,8099,0.2
+Abbotsford-Mission,cma,2024Q4,2024,4,8100,0.22
+Abbotsford-Mission,cma,2025Q1,2025,1,8101,0.23
+Abbotsford-Mission,cma,2025Q2,2025,2,8102,0.24
+Abbotsford-Mission,cma,2025Q3,2025,3,8103,0.26
+Abbotsford-Mission,cma,2025Q4,2025,4,8104,0.29
+Barrie,cma,2012Q3,2012,3,8051,0.42
+Barrie,cma,2012Q4,2012,4,8052,0.39
+Barrie,cma,2013Q1,2013,1,8053,0.39
+Barrie,cma,2013Q2,2013,2,8054,0.35
+Barrie,cma,2013Q3,2013,3,8055,0.34
+Barrie,cma,2013Q4,2013,4,8056,0.37
+Barrie,cma,2014Q1,2014,1,8057,0.37
+Barrie,cma,2014Q2,2014,2,8058,0.31
+Barrie,cma,2014Q3,2014,3,8059,0.31
+Barrie,cma,2014Q4,2014,4,8060,0.3
+Barrie,cma,2015Q1,2015,1,8061,0.33
+Barrie,cma,2015Q2,2015,2,8062,0.26
+Barrie,cma,2015Q3,2015,3,8063,0.25
+Barrie,cma,2015Q4,2015,4,8064,0.22
+Barrie,cma,2016Q1,2016,1,8065,0.22
+Barrie,cma,2016Q2,2016,2,8066,0.21
+Barrie,cma,2016Q3,2016,3,8067,0.19
+Barrie,cma,2016Q4,2016,4,8068,0.14
+Barrie,cma,2017Q1,2017,1,8069,0.15
+Barrie,cma,2017Q2,2017,2,8070,0.12
+Barrie,cma,2017Q3,2017,3,8071,0.13
+Barrie,cma,2017Q4,2017,4,8072,0.13
+Barrie,cma,2018Q1,2018,1,8073,0.11
+Barrie,cma,2018Q2,2018,2,8074,0.1
+Barrie,cma,2018Q3,2018,3,8075,0.11
+Barrie,cma,2018Q4,2018,4,8076,0.14
+Barrie,cma,2019Q1,2019,1,8077,0.12
+Barrie,cma,2019Q2,2019,2,8078,0.1
+Barrie,cma,2019Q3,2019,3,8079,0.11
+Barrie,cma,2019Q4,2019,4,8080,0.14
+Barrie,cma,2020Q1,2020,1,8081,0.14
+Barrie,cma,2020Q2,2020,2,8082,0.13
+Barrie,cma,2020Q3,2020,3,8083,0.16
+Barrie,cma,2020Q4,2020,4,8084,0.13
+Barrie,cma,2021Q1,2021,1,8085,0.12
+Barrie,cma,2021Q2,2021,2,8086,0.09
+Barrie,cma,2021Q3,2021,3,8087,0.08
+Barrie,cma,2021Q4,2021,4,8088,0.08
+Barrie,cma,2022Q1,2022,1,8089,0.07
+Barrie,cma,2022Q2,2022,2,8090,0.05
+Barrie,cma,2022Q3,2022,3,8091,0.05
+Barrie,cma,2022Q4,2022,4,8092,0.07
+Barrie,cma,2023Q1,2023,1,8093,0.09
+Barrie,cma,2023Q2,2023,2,8094,0.08
+Barrie,cma,2023Q3,2023,3,8095,0.1
+Barrie,cma,2023Q4,2023,4,8096,0.12
+Barrie,cma,2024Q1,2024,1,8097,0.15
+Barrie,cma,2024Q2,2024,2,8098,0.19
+Barrie,cma,2024Q3,2024,3,8099,0.22
+Barrie,cma,2024Q4,2024,4,8100,0.23
+Barrie,cma,2025Q1,2025,1,8101,0.24
+Barrie,cma,2025Q2,2025,2,8102,0.24
+Barrie,cma,2025Q3,2025,3,8103,0.27
+Barrie,cma,2025Q4,2025,4,8104,0.34
+Brantford,cma,2012Q3,2012,3,8051,0.42
+Brantford,cma,2012Q4,2012,4,8052,0.49
+Brantford,cma,2013Q1,2013,1,8053,0.43
+Brantford,cma,2013Q2,2013,2,8054,0.44
+Brantford,cma,2013Q3,2013,3,8055,0.42
+Brantford,cma,2013Q4,2013,4,8056,0.4
+Brantford,cma,2014Q1,2014,1,8057,0.42
+Brantford,cma,2014Q2,2014,2,8058,0.36
+Brantford,cma,2014Q3,2014,3,8059,0.34
+Brantford,cma,2014Q4,2014,4,8060,0.32
+Brantford,cma,2015Q1,2015,1,8061,0.33
+Brantford,cma,2015Q2,2015,2,8062,0.34
+Brantford,cma,2015Q3,2015,3,8063,0.34
+Brantford,cma,2015Q4,2015,4,8064,0.27
+Brantford,cma,2016Q1,2016,1,8065,0.28
+Brantford,cma,2016Q2,2016,2,8066,0.27
+Brantford,cma,2016Q3,2016,3,8067,0.24
+Brantford,cma,2016Q4,2016,4,8068,0.25
+Brantford,cma,2017Q1,2017,1,8069,0.2
+Brantford,cma,2017Q2,2017,2,8070,0.18
+Brantford,cma,2017Q3,2017,3,8071,0.13
+Brantford,cma,2017Q4,2017,4,8072,0.15
+Brantford,cma,2018Q1,2018,1,8073,0.17
+Brantford,cma,2018Q2,2018,2,8074,0.18
+Brantford,cma,2018Q3,2018,3,8075,0.13
+Brantford,cma,2018Q4,2018,4,8076,0.1
+Brantford,cma,2019Q1,2019,1,8077,0.11
+Brantford,cma,2019Q2,2019,2,8078,0.1
+Brantford,cma,2019Q3,2019,3,8079,0.14
+Brantford,cma,2019Q4,2019,4,8080,0.14
+Brantford,cma,2020Q1,2020,1,8081,0.15
+Brantford,cma,2020Q2,2020,2,8082,0.17
+Brantford,cma,2020Q3,2020,3,8083,0.16
+Brantford,cma,2020Q4,2020,4,8084,0.15
+Brantford,cma,2021Q1,2021,1,8085,0.15
+Brantford,cma,2021Q2,2021,2,8086,0.13
+Brantford,cma,2021Q3,2021,3,8087,0.11
+Brantford,cma,2021Q4,2021,4,8088,0.12
+Brantford,cma,2022Q1,2022,1,8089,0.13
+Brantford,cma,2022Q2,2022,2,8090,0.13
+Brantford,cma,2022Q3,2022,3,8091,0.11
+Brantford,cma,2022Q4,2022,4,8092,0.15
+Brantford,cma,2023Q1,2023,1,8093,0.11
+Brantford,cma,2023Q2,2023,2,8094,0.11
+Brantford,cma,2023Q3,2023,3,8095,0.13
+Brantford,cma,2023Q4,2023,4,8096,0.17
+Brantford,cma,2024Q1,2024,1,8097,0.18
+Brantford,cma,2024Q2,2024,2,8098,0.2
+Brantford,cma,2024Q3,2024,3,8099,0.2
+Brantford,cma,2024Q4,2024,4,8100,0.2
+Brantford,cma,2025Q1,2025,1,8101,0.19
+Brantford,cma,2025Q2,2025,2,8102,0.26
+Brantford,cma,2025Q3,2025,3,8103,0.25
+Brantford,cma,2025Q4,2025,4,8104,0.27
+Calgary,cma,2012Q3,2012,3,8051,0.59
+Calgary,cma,2012Q4,2012,4,8052,0.52
+Calgary,cma,2013Q1,2013,1,8053,0.48
+Calgary,cma,2013Q2,2013,2,8054,0.43
+Calgary,cma,2013Q3,2013,3,8055,0.39
+Calgary,cma,2013Q4,2013,4,8056,0.38
+Calgary,cma,2014Q1,2014,1,8057,0.34
+Calgary,cma,2014Q2,2014,2,8058,0.3
+Calgary,cma,2014Q3,2014,3,8059,0.27
+Calgary,cma,2014Q4,2014,4,8060,0.26
+Calgary,cma,2015Q1,2015,1,8061,0.26
+Calgary,cma,2015Q2,2015,2,8062,0.25
+Calgary,cma,2015Q3,2015,3,8063,0.26
+Calgary,cma,2015Q4,2015,4,8064,0.27
+Calgary,cma,2016Q1,2016,1,8065,0.3
+Calgary,cma,2016Q2,2016,2,8066,0.32
+Calgary,cma,2016Q3,2016,3,8067,0.34
+Calgary,cma,2016Q4,2016,4,8068,0.35
+Calgary,cma,2017Q1,2017,1,8069,0.37
+Calgary,cma,2017Q2,2017,2,8070,0.34
+Calgary,cma,2017Q3,2017,3,8071,0.34
+Calgary,cma,2017Q4,2017,4,8072,0.33
+Calgary,cma,2018Q1,2018,1,8073,0.34
+Calgary,cma,2018Q2,2018,2,8074,0.32
+Calgary,cma,2018Q3,2018,3,8075,0.32
+Calgary,cma,2018Q4,2018,4,8076,0.35
+Calgary,cma,2019Q1,2019,1,8077,0.34
+Calgary,cma,2019Q2,2019,2,8078,0.36
+Calgary,cma,2019Q3,2019,3,8079,0.37
+Calgary,cma,2019Q4,2019,4,8080,0.37
+Calgary,cma,2020Q1,2020,1,8081,0.39
+Calgary,cma,2020Q2,2020,2,8082,0.39
+Calgary,cma,2020Q3,2020,3,8083,0.37
+Calgary,cma,2020Q4,2020,4,8084,0.32
+Calgary,cma,2021Q1,2021,1,8085,0.31
+Calgary,cma,2021Q2,2021,2,8086,0.29
+Calgary,cma,2021Q3,2021,3,8087,0.3
+Calgary,cma,2021Q4,2021,4,8088,0.29
+Calgary,cma,2022Q1,2022,1,8089,0.26
+Calgary,cma,2022Q2,2022,2,8090,0.22
+Calgary,cma,2022Q3,2022,3,8091,0.19
+Calgary,cma,2022Q4,2022,4,8092,0.18
+Calgary,cma,2023Q1,2023,1,8093,0.19
+Calgary,cma,2023Q2,2023,2,8094,0.18
+Calgary,cma,2023Q3,2023,3,8095,0.17
+Calgary,cma,2023Q4,2023,4,8096,0.18
+Calgary,cma,2024Q1,2024,1,8097,0.18
+Calgary,cma,2024Q2,2024,2,8098,0.17
+Calgary,cma,2024Q3,2024,3,8099,0.17
+Calgary,cma,2024Q4,2024,4,8100,0.17
+Calgary,cma,2025Q1,2025,1,8101,0.18
+Calgary,cma,2025Q2,2025,2,8102,0.16
+Calgary,cma,2025Q3,2025,3,8103,0.16
+Calgary,cma,2025Q4,2025,4,8104,0.17
+Charlottetown,cma,2012Q3,2012,3,8051,0.46
+Charlottetown,cma,2012Q4,2012,4,8052,0.31
+Charlottetown,cma,2013Q1,2013,1,8053,0.35
+Charlottetown,cma,2013Q2,2013,2,8054,0.32
+Charlottetown,cma,2013Q3,2013,3,8055,0.4
+Charlottetown,cma,2013Q4,2013,4,8056,0.48
+Charlottetown,cma,2014Q1,2014,1,8057,0.49
+Charlottetown,cma,2014Q2,2014,2,8058,0.41
+Charlottetown,cma,2014Q3,2014,3,8059,0.34
+Charlottetown,cma,2014Q4,2014,4,8060,0.41
+Charlottetown,cma,2015Q1,2015,1,8061,0.53
+Charlottetown,cma,2015Q2,2015,2,8062,0.57
+Charlottetown,cma,2015Q3,2015,3,8063,0.55
+Charlottetown,cma,2015Q4,2015,4,8064,0.59
+Charlottetown,cma,2016Q1,2016,1,8065,0.56
+Charlottetown,cma,2016Q2,2016,2,8066,0.6
+Charlottetown,cma,2016Q3,2016,3,8067,0.58
+Charlottetown,cma,2016Q4,2016,4,8068,0.55
+Charlottetown,cma,2017Q1,2017,1,8069,0.61
+Charlottetown,cma,2017Q2,2017,2,8070,0.49
+Charlottetown,cma,2017Q3,2017,3,8071,0.41
+Charlottetown,cma,2017Q4,2017,4,8072,0.29
+Charlottetown,cma,2018Q1,2018,1,8073,0.35
+Charlottetown,cma,2018Q2,2018,2,8074,0.33
+Charlottetown,cma,2018Q3,2018,3,8075,0.31
+Charlottetown,cma,2018Q4,2018,4,8076,0.27
+Charlottetown,cma,2019Q1,2019,1,8077,0.26
+Charlottetown,cma,2019Q2,2019,2,8078,0.35
+Charlottetown,cma,2019Q3,2019,3,8079,0.31
+Charlottetown,cma,2019Q4,2019,4,8080,0.27
+Charlottetown,cma,2020Q1,2020,1,8081,0.19
+Charlottetown,cma,2020Q2,2020,2,8082,0.22
+Charlottetown,cma,2020Q3,2020,3,8083,0.27
+Charlottetown,cma,2020Q4,2020,4,8084,0.19
+Charlottetown,cma,2021Q1,2021,1,8085,0.19
+Charlottetown,cma,2021Q2,2021,2,8086,0.14
+Charlottetown,cma,2021Q3,2021,3,8087,0.14
+Charlottetown,cma,2021Q4,2021,4,8088,0.11
+Charlottetown,cma,2022Q1,2022,1,8089,0.12
+Charlottetown,cma,2022Q2,2022,2,8090,0.09
+Charlottetown,cma,2022Q3,2022,3,8091,0.09
+Charlottetown,cma,2022Q4,2022,4,8092,0.09
+Charlottetown,cma,2023Q1,2023,1,8093,0.08
+Charlottetown,cma,2023Q2,2023,2,8094,0.11
+Charlottetown,cma,2023Q3,2023,3,8095,0.09
+Charlottetown,cma,2023Q4,2023,4,8096,0.11
+Charlottetown,cma,2024Q1,2024,1,8097,0.09
+Charlottetown,cma,2024Q2,2024,2,8098,0.11
+Charlottetown,cma,2024Q3,2024,3,8099,0.14
+Charlottetown,cma,2024Q4,2024,4,8100,0.13
+Charlottetown,cma,2025Q1,2025,1,8101,0.13
+Charlottetown,cma,2025Q2,2025,2,8102,0.18
+Charlottetown,cma,2025Q3,2025,3,8103,0.16
+Charlottetown,cma,2025Q4,2025,4,8104,0.19
+Edmonton,cma,2012Q3,2012,3,8051,0.6
+Edmonton,cma,2012Q4,2012,4,8052,0.56
+Edmonton,cma,2013Q1,2013,1,8053,0.53
+Edmonton,cma,2013Q2,2013,2,8054,0.47
+Edmonton,cma,2013Q3,2013,3,8055,0.46
+Edmonton,cma,2013Q4,2013,4,8056,0.41
+Edmonton,cma,2014Q1,2014,1,8057,0.44
+Edmonton,cma,2014Q2,2014,2,8058,0.37
+Edmonton,cma,2014Q3,2014,3,8059,0.34
+Edmonton,cma,2014Q4,2014,4,8060,0.32
+Edmonton,cma,2015Q1,2015,1,8061,0.33
+Edmonton,cma,2015Q2,2015,2,8062,0.33
+Edmonton,cma,2015Q3,2015,3,8063,0.34
+Edmonton,cma,2015Q4,2015,4,8064,0.35
+Edmonton,cma,2016Q1,2016,1,8065,0.4
+Edmonton,cma,2016Q2,2016,2,8066,0.43
+Edmonton,cma,2016Q3,2016,3,8067,0.5
+Edmonton,cma,2016Q4,2016,4,8068,0.52
+Edmonton,cma,2017Q1,2017,1,8069,0.54
+Edmonton,cma,2017Q2,2017,2,8070,0.54
+Edmonton,cma,2017Q3,2017,3,8071,0.54
+Edmonton,cma,2017Q4,2017,4,8072,0.54
+Edmonton,cma,2018Q1,2018,1,8073,0.53
+Edmonton,cma,2018Q2,2018,2,8074,0.51
+Edmonton,cma,2018Q3,2018,3,8075,0.51
+Edmonton,cma,2018Q4,2018,4,8076,0.54
+Edmonton,cma,2019Q1,2019,1,8077,0.55
+Edmonton,cma,2019Q2,2019,2,8078,0.57
+Edmonton,cma,2019Q3,2019,3,8079,0.54
+Edmonton,cma,2019Q4,2019,4,8080,0.54
+Edmonton,cma,2020Q1,2020,1,8081,0.55
+Edmonton,cma,2020Q2,2020,2,8082,0.55
+Edmonton,cma,2020Q3,2020,3,8083,0.53
+Edmonton,cma,2020Q4,2020,4,8084,0.46
+Edmonton,cma,2021Q1,2021,1,8085,0.47
+Edmonton,cma,2021Q2,2021,2,8086,0.46
+Edmonton,cma,2021Q3,2021,3,8087,0.43
+Edmonton,cma,2021Q4,2021,4,8088,0.45
+Edmonton,cma,2022Q1,2022,1,8089,0.42
+Edmonton,cma,2022Q2,2022,2,8090,0.38
+Edmonton,cma,2022Q3,2022,3,8091,0.35
+Edmonton,cma,2022Q4,2022,4,8092,0.34
+Edmonton,cma,2023Q1,2023,1,8093,0.35
+Edmonton,cma,2023Q2,2023,2,8094,0.33
+Edmonton,cma,2023Q3,2023,3,8095,0.32
+Edmonton,cma,2023Q4,2023,4,8096,0.32
+Edmonton,cma,2024Q1,2024,1,8097,0.34
+Edmonton,cma,2024Q2,2024,2,8098,0.34
+Edmonton,cma,2024Q3,2024,3,8099,0.33
+Edmonton,cma,2024Q4,2024,4,8100,0.33
+Edmonton,cma,2025Q1,2025,1,8101,0.34
+Edmonton,cma,2025Q2,2025,2,8102,0.31
+Edmonton,cma,2025Q3,2025,3,8103,0.29
+Edmonton,cma,2025Q4,2025,4,8104,0.28
+Greater Sudbury,cma,2012Q3,2012,3,8051,0.34
+Greater Sudbury,cma,2012Q4,2012,4,8052,0.35
+Greater Sudbury,cma,2013Q1,2013,1,8053,0.38
+Greater Sudbury,cma,2013Q2,2013,2,8054,0.32
+Greater Sudbury,cma,2013Q3,2013,3,8055,0.32
+Greater Sudbury,cma,2013Q4,2013,4,8056,0.3
+Greater Sudbury,cma,2014Q1,2014,1,8057,0.3
+Greater Sudbury,cma,2014Q2,2014,2,8058,0.3
+Greater Sudbury,cma,2014Q3,2014,3,8059,0.37
+Greater Sudbury,cma,2014Q4,2014,4,8060,0.45
+Greater Sudbury,cma,2015Q1,2015,1,8061,0.5
+Greater Sudbury,cma,2015Q2,2015,2,8062,0.49
+Greater Sudbury,cma,2015Q3,2015,3,8063,0.46
+Greater Sudbury,cma,2015Q4,2015,4,8064,0.5
+Greater Sudbury,cma,2016Q1,2016,1,8065,0.54
+Greater Sudbury,cma,2016Q2,2016,2,8066,0.54
+Greater Sudbury,cma,2016Q3,2016,3,8067,0.48
+Greater Sudbury,cma,2016Q4,2016,4,8068,0.47
+Greater Sudbury,cma,2017Q1,2017,1,8069,0.44
+Greater Sudbury,cma,2017Q2,2017,2,8070,0.47
+Greater Sudbury,cma,2017Q3,2017,3,8071,0.43
+Greater Sudbury,cma,2017Q4,2017,4,8072,0.39
+Greater Sudbury,cma,2018Q1,2018,1,8073,0.34
+Greater Sudbury,cma,2018Q2,2018,2,8074,0.28
+Greater Sudbury,cma,2018Q3,2018,3,8075,0.35
+Greater Sudbury,cma,2018Q4,2018,4,8076,0.35
+Greater Sudbury,cma,2019Q1,2019,1,8077,0.35
+Greater Sudbury,cma,2019Q2,2019,2,8078,0.33
+Greater Sudbury,cma,2019Q3,2019,3,8079,0.34
+Greater Sudbury,cma,2019Q4,2019,4,8080,0.35
+Greater Sudbury,cma,2020Q1,2020,1,8081,0.34
+Greater Sudbury,cma,2020Q2,2020,2,8082,0.29
+Greater Sudbury,cma,2020Q3,2020,3,8083,0.26
+Greater Sudbury,cma,2020Q4,2020,4,8084,0.27
+Greater Sudbury,cma,2021Q1,2021,1,8085,0.28
+Greater Sudbury,cma,2021Q2,2021,2,8086,0.19
+Greater Sudbury,cma,2021Q3,2021,3,8087,0.17
+Greater Sudbury,cma,2021Q4,2021,4,8088,0.15
+Greater Sudbury,cma,2022Q1,2022,1,8089,0.14
+Greater Sudbury,cma,2022Q2,2022,2,8090,0.14
+Greater Sudbury,cma,2022Q3,2022,3,8091,0.18
+Greater Sudbury,cma,2022Q4,2022,4,8092,0.19
+Greater Sudbury,cma,2023Q1,2023,1,8093,0.21
+Greater Sudbury,cma,2023Q2,2023,2,8094,0.19
+Greater Sudbury,cma,2023Q3,2023,3,8095,0.16
+Greater Sudbury,cma,2023Q4,2023,4,8096,0.14
+Greater Sudbury,cma,2024Q1,2024,1,8097,0.17
+Greater Sudbury,cma,2024Q2,2024,2,8098,0.17
+Greater Sudbury,cma,2024Q3,2024,3,8099,0.18
+Greater Sudbury,cma,2024Q4,2024,4,8100,0.17
+Greater Sudbury,cma,2025Q1,2025,1,8101,0.21
+Greater Sudbury,cma,2025Q2,2025,2,8102,0.21
+Greater Sudbury,cma,2025Q3,2025,3,8103,0.17
+Greater Sudbury,cma,2025Q4,2025,4,8104,0.18
+Guelph,cma,2012Q3,2012,3,8051,0.21
+Guelph,cma,2012Q4,2012,4,8052,0.15
+Guelph,cma,2013Q1,2013,1,8053,0.23
+Guelph,cma,2013Q2,2013,2,8054,0.19
+Guelph,cma,2013Q3,2013,3,8055,0.2
+Guelph,cma,2013Q4,2013,4,8056,0.15
+Guelph,cma,2014Q1,2014,1,8057,0.18
+Guelph,cma,2014Q2,2014,2,8058,0.18
+Guelph,cma,2014Q3,2014,3,8059,0.17
+Guelph,cma,2014Q4,2014,4,8060,0.15
+Guelph,cma,2015Q1,2015,1,8061,0.09
+Guelph,cma,2015Q2,2015,2,8062,0.15
+Guelph,cma,2015Q3,2015,3,8063,0.11
+Guelph,cma,2015Q4,2015,4,8064,0.1
+Guelph,cma,2016Q1,2016,1,8065,0.14
+Guelph,cma,2016Q2,2016,2,8066,0.14
+Guelph,cma,2016Q3,2016,3,8067,0.1
+Guelph,cma,2016Q4,2016,4,8068,0.1
+Guelph,cma,2017Q1,2017,1,8069,0.1
+Guelph,cma,2017Q2,2017,2,8070,0.1
+Guelph,cma,2017Q3,2017,3,8071,0.09
+Guelph,cma,2017Q4,2017,4,8072,0.08
+Guelph,cma,2018Q1,2018,1,8073,0.08
+Guelph,cma,2018Q2,2018,2,8074,0.08
+Guelph,cma,2018Q3,2018,3,8075,0.09
+Guelph,cma,2018Q4,2018,4,8076,0.05
+Guelph,cma,2019Q1,2019,1,8077,0.05
+Guelph,cma,2019Q2,2019,2,8078,0.05
+Guelph,cma,2019Q3,2019,3,8079,0.05
+Guelph,cma,2019Q4,2019,4,8080,0.07
+Guelph,cma,2020Q1,2020,1,8081,0.05
+Guelph,cma,2020Q2,2020,2,8082,0.07
+Guelph,cma,2020Q3,2020,3,8083,0.07
+Guelph,cma,2020Q4,2020,4,8084,0.06
+Guelph,cma,2021Q1,2021,1,8085,0.05
+Guelph,cma,2021Q2,2021,2,8086,0.04
+Guelph,cma,2021Q3,2021,3,8087,0.03
+Guelph,cma,2021Q4,2021,4,8088,0.04
+Guelph,cma,2022Q1,2022,1,8089,0.05
+Guelph,cma,2022Q2,2022,2,8090,0.06
+Guelph,cma,2022Q3,2022,3,8091,0.05
+Guelph,cma,2022Q4,2022,4,8092,0.07
+Guelph,cma,2023Q1,2023,1,8093,0.08
+Guelph,cma,2023Q2,2023,2,8094,0.07
+Guelph,cma,2023Q3,2023,3,8095,0.08
+Guelph,cma,2023Q4,2023,4,8096,0.09
+Guelph,cma,2024Q1,2024,1,8097,0.09
+Guelph,cma,2024Q2,2024,2,8098,0.08
+Guelph,cma,2024Q3,2024,3,8099,0.1
+Guelph,cma,2024Q4,2024,4,8100,0.15
+Guelph,cma,2025Q1,2025,1,8101,0.15
+Guelph,cma,2025Q2,2025,2,8102,0.13
+Guelph,cma,2025Q3,2025,3,8103,0.12
+Guelph,cma,2025Q4,2025,4,8104,0.18
+Halifax,cma,2012Q3,2012,3,8051,0.37
+Halifax,cma,2012Q4,2012,4,8052,0.36
+Halifax,cma,2013Q1,2013,1,8053,0.36
+Halifax,cma,2013Q2,2013,2,8054,0.37
+Halifax,cma,2013Q3,2013,3,8055,0.38
+Halifax,cma,2013Q4,2013,4,8056,0.44
+Halifax,cma,2014Q1,2014,1,8057,0.43
+Halifax,cma,2014Q2,2014,2,8058,0.47
+Halifax,cma,2014Q3,2014,3,8059,0.47
+Halifax,cma,2014Q4,2014,4,8060,0.49
+Halifax,cma,2015Q1,2015,1,8061,0.49
+Halifax,cma,2015Q2,2015,2,8062,0.49
+Halifax,cma,2015Q3,2015,3,8063,0.5
+Halifax,cma,2015Q4,2015,4,8064,0.49
+Halifax,cma,2016Q1,2016,1,8065,0.51
+Halifax,cma,2016Q2,2016,2,8066,0.54
+Halifax,cma,2016Q3,2016,3,8067,0.54
+Halifax,cma,2016Q4,2016,4,8068,0.54
+Halifax,cma,2017Q1,2017,1,8069,0.5
+Halifax,cma,2017Q2,2017,2,8070,0.47
+Halifax,cma,2017Q3,2017,3,8071,0.47
+Halifax,cma,2017Q4,2017,4,8072,0.44
+Halifax,cma,2018Q1,2018,1,8073,0.48
+Halifax,cma,2018Q2,2018,2,8074,0.45
+Halifax,cma,2018Q3,2018,3,8075,0.41
+Halifax,cma,2018Q4,2018,4,8076,0.39
+Halifax,cma,2019Q1,2019,1,8077,0.37
+Halifax,cma,2019Q2,2019,2,8078,0.35
+Halifax,cma,2019Q3,2019,3,8079,0.35
+Halifax,cma,2019Q4,2019,4,8080,0.34
+Halifax,cma,2020Q1,2020,1,8081,0.29
+Halifax,cma,2020Q2,2020,2,8082,0.29
+Halifax,cma,2020Q3,2020,3,8083,0.3
+Halifax,cma,2020Q4,2020,4,8084,0.24
+Halifax,cma,2021Q1,2021,1,8085,0.23
+Halifax,cma,2021Q2,2021,2,8086,0.21
+Halifax,cma,2021Q3,2021,3,8087,0.19
+Halifax,cma,2021Q4,2021,4,8088,0.16
+Halifax,cma,2022Q1,2022,1,8089,0.14
+Halifax,cma,2022Q2,2022,2,8090,0.13
+Halifax,cma,2022Q3,2022,3,8091,0.14
+Halifax,cma,2022Q4,2022,4,8092,0.12
+Halifax,cma,2023Q1,2023,1,8093,0.12
+Halifax,cma,2023Q2,2023,2,8094,0.11
+Halifax,cma,2023Q3,2023,3,8095,0.11
+Halifax,cma,2023Q4,2023,4,8096,0.13
+Halifax,cma,2024Q1,2024,1,8097,0.14
+Halifax,cma,2024Q2,2024,2,8098,0.15
+Halifax,cma,2024Q3,2024,3,8099,0.18
+Halifax,cma,2024Q4,2024,4,8100,0.18
+Halifax,cma,2025Q1,2025,1,8101,0.18
+Halifax,cma,2025Q2,2025,2,8102,0.16
+Halifax,cma,2025Q3,2025,3,8103,0.16
+Halifax,cma,2025Q4,2025,4,8104,0.16
+Hamilton,cma,2012Q3,2012,3,8051,0.29
+Hamilton,cma,2012Q4,2012,4,8052,0.31
+Hamilton,cma,2013Q1,2013,1,8053,0.3
+Hamilton,cma,2013Q2,2013,2,8054,0.25
+Hamilton,cma,2013Q3,2013,3,8055,0.26
+Hamilton,cma,2013Q4,2013,4,8056,0.27
+Hamilton,cma,2014Q1,2014,1,8057,0.29
+Hamilton,cma,2014Q2,2014,2,8058,0.26
+Hamilton,cma,2014Q3,2014,3,8059,0.25
+Hamilton,cma,2014Q4,2014,4,8060,0.25
+Hamilton,cma,2015Q1,2015,1,8061,0.25
+Hamilton,cma,2015Q2,2015,2,8062,0.2
+Hamilton,cma,2015Q3,2015,3,8063,0.18
+Hamilton,cma,2015Q4,2015,4,8064,0.16
+Hamilton,cma,2016Q1,2016,1,8065,0.18
+Hamilton,cma,2016Q2,2016,2,8066,0.16
+Hamilton,cma,2016Q3,2016,3,8067,0.15
+Hamilton,cma,2016Q4,2016,4,8068,0.13
+Hamilton,cma,2017Q1,2017,1,8069,0.13
+Hamilton,cma,2017Q2,2017,2,8070,0.1
+Hamilton,cma,2017Q3,2017,3,8071,0.1
+Hamilton,cma,2017Q4,2017,4,8072,0.1
+Hamilton,cma,2018Q1,2018,1,8073,0.09
+Hamilton,cma,2018Q2,2018,2,8074,0.09
+Hamilton,cma,2018Q3,2018,3,8075,0.09
+Hamilton,cma,2018Q4,2018,4,8076,0.09
+Hamilton,cma,2019Q1,2019,1,8077,0.09
+Hamilton,cma,2019Q2,2019,2,8078,0.09
+Hamilton,cma,2019Q3,2019,3,8079,0.08
+Hamilton,cma,2019Q4,2019,4,8080,0.1
+Hamilton,cma,2020Q1,2020,1,8081,0.1
+Hamilton,cma,2020Q2,2020,2,8082,0.1
+Hamilton,cma,2020Q3,2020,3,8083,0.11
+Hamilton,cma,2020Q4,2020,4,8084,0.09
+Hamilton,cma,2021Q1,2021,1,8085,0.1
+Hamilton,cma,2021Q2,2021,2,8086,0.09
+Hamilton,cma,2021Q3,2021,3,8087,0.07
+Hamilton,cma,2021Q4,2021,4,8088,0.06
+Hamilton,cma,2022Q1,2022,1,8089,0.05
+Hamilton,cma,2022Q2,2022,2,8090,0.04
+Hamilton,cma,2022Q3,2022,3,8091,0.05
+Hamilton,cma,2022Q4,2022,4,8092,0.06
+Hamilton,cma,2023Q1,2023,1,8093,0.06
+Hamilton,cma,2023Q2,2023,2,8094,0.06
+Hamilton,cma,2023Q3,2023,3,8095,0.08
+Hamilton,cma,2023Q4,2023,4,8096,0.11
+Hamilton,cma,2024Q1,2024,1,8097,0.11
+Hamilton,cma,2024Q2,2024,2,8098,0.13
+Hamilton,cma,2024Q3,2024,3,8099,0.15
+Hamilton,cma,2024Q4,2024,4,8100,0.17
+Hamilton,cma,2025Q1,2025,1,8101,0.18
+Hamilton,cma,2025Q2,2025,2,8102,0.19
+Hamilton,cma,2025Q3,2025,3,8103,0.21
+Hamilton,cma,2025Q4,2025,4,8104,0.22
+Kelowna,cma,2012Q3,2012,3,8051,0.68
+Kelowna,cma,2012Q4,2012,4,8052,0.63
+Kelowna,cma,2013Q1,2013,1,8053,0.55
+Kelowna,cma,2013Q2,2013,2,8054,0.64
+Kelowna,cma,2013Q3,2013,3,8055,0.58
+Kelowna,cma,2013Q4,2013,4,8056,0.59
+Kelowna,cma,2014Q1,2014,1,8057,0.61
+Kelowna,cma,2014Q2,2014,2,8058,0.55
+Kelowna,cma,2014Q3,2014,3,8059,0.56
+Kelowna,cma,2014Q4,2014,4,8060,0.47
+Kelowna,cma,2015Q1,2015,1,8061,0.54
+Kelowna,cma,2015Q2,2015,2,8062,0.51
+Kelowna,cma,2015Q3,2015,3,8063,0.43
+Kelowna,cma,2015Q4,2015,4,8064,0.38
+Kelowna,cma,2016Q1,2016,1,8065,0.38
+Kelowna,cma,2016Q2,2016,2,8066,0.34
+Kelowna,cma,2016Q3,2016,3,8067,0.35
+Kelowna,cma,2016Q4,2016,4,8068,0.37
+Kelowna,cma,2017Q1,2017,1,8069,0.33
+Kelowna,cma,2017Q2,2017,2,8070,0.28
+Kelowna,cma,2017Q3,2017,3,8071,0.26
+Kelowna,cma,2017Q4,2017,4,8072,0.21
+Kelowna,cma,2018Q1,2018,1,8073,0.19
+Kelowna,cma,2018Q2,2018,2,8074,0.21
+Kelowna,cma,2018Q3,2018,3,8075,0.2
+Kelowna,cma,2018Q4,2018,4,8076,0.21
+Kelowna,cma,2019Q1,2019,1,8077,0.22
+Kelowna,cma,2019Q2,2019,2,8078,0.2
+Kelowna,cma,2019Q3,2019,3,8079,0.19
+Kelowna,cma,2019Q4,2019,4,8080,0.18
+Kelowna,cma,2020Q1,2020,1,8081,0.19
+Kelowna,cma,2020Q2,2020,2,8082,0.21
+Kelowna,cma,2020Q3,2020,3,8083,0.21
+Kelowna,cma,2020Q4,2020,4,8084,0.19
+Kelowna,cma,2021Q1,2021,1,8085,0.21
+Kelowna,cma,2021Q2,2021,2,8086,0.16
+Kelowna,cma,2021Q3,2021,3,8087,0.15
+Kelowna,cma,2021Q4,2021,4,8088,0.15
+Kelowna,cma,2022Q1,2022,1,8089,0.14
+Kelowna,cma,2022Q2,2022,2,8090,0.1
+Kelowna,cma,2022Q3,2022,3,8091,0.1
+Kelowna,cma,2022Q4,2022,4,8092,0.1
+Kelowna,cma,2023Q1,2023,1,8093,0.13
+Kelowna,cma,2023Q2,2023,2,8094,0.12
+Kelowna,cma,2023Q3,2023,3,8095,0.13
+Kelowna,cma,2023Q4,2023,4,8096,0.13
+Kelowna,cma,2024Q1,2024,1,8097,0.14
+Kelowna,cma,2024Q2,2024,2,8098,0.18
+Kelowna,cma,2024Q3,2024,3,8099,0.2
+Kelowna,cma,2024Q4,2024,4,8100,0.17
+Kelowna,cma,2025Q1,2025,1,8101,0.18
+Kelowna,cma,2025Q2,2025,2,8102,0.19
+Kelowna,cma,2025Q3,2025,3,8103,0.18
+Kelowna,cma,2025Q4,2025,4,8104,0.21
+Kingston,cma,2012Q3,2012,3,8051,0.31
+Kingston,cma,2012Q4,2012,4,8052,0.28
+Kingston,cma,2013Q1,2013,1,8053,0.32
+Kingston,cma,2013Q2,2013,2,8054,0.33
+Kingston,cma,2013Q3,2013,3,8055,0.29
+Kingston,cma,2013Q4,2013,4,8056,0.28
+Kingston,cma,2014Q1,2014,1,8057,0.26
+Kingston,cma,2014Q2,2014,2,8058,0.29
+Kingston,cma,2014Q3,2014,3,8059,0.36
+Kingston,cma,2014Q4,2014,4,8060,0.36
+Kingston,cma,2015Q1,2015,1,8061,0.37
+Kingston,cma,2015Q2,2015,2,8062,0.35
+Kingston,cma,2015Q3,2015,3,8063,0.34
+Kingston,cma,2015Q4,2015,4,8064,0.31
+Kingston,cma,2016Q1,2016,1,8065,0.32
+Kingston,cma,2016Q2,2016,2,8066,0.3
+Kingston,cma,2016Q3,2016,3,8067,0.28
+Kingston,cma,2016Q4,2016,4,8068,0.28
+Kingston,cma,2017Q1,2017,1,8069,0.28
+Kingston,cma,2017Q2,2017,2,8070,0.27
+Kingston,cma,2017Q3,2017,3,8071,0.19
+Kingston,cma,2017Q4,2017,4,8072,0.19
+Kingston,cma,2018Q1,2018,1,8073,0.2
+Kingston,cma,2018Q2,2018,2,8074,0.18
+Kingston,cma,2018Q3,2018,3,8075,0.15
+Kingston,cma,2018Q4,2018,4,8076,0.19
+Kingston,cma,2019Q1,2019,1,8077,0.18
+Kingston,cma,2019Q2,2019,2,8078,0.21
+Kingston,cma,2019Q3,2019,3,8079,0.18
+Kingston,cma,2019Q4,2019,4,8080,0.17
+Kingston,cma,2020Q1,2020,1,8081,0.19
+Kingston,cma,2020Q2,2020,2,8082,0.17
+Kingston,cma,2020Q3,2020,3,8083,0.17
+Kingston,cma,2020Q4,2020,4,8084,0.18
+Kingston,cma,2021Q1,2021,1,8085,0.16
+Kingston,cma,2021Q2,2021,2,8086,0.11
+Kingston,cma,2021Q3,2021,3,8087,0.06
+Kingston,cma,2021Q4,2021,4,8088,0.06
+Kingston,cma,2022Q1,2022,1,8089,0.07
+Kingston,cma,2022Q2,2022,2,8090,0.08
+Kingston,cma,2022Q3,2022,3,8091,0.07
+Kingston,cma,2022Q4,2022,4,8092,0.08
+Kingston,cma,2023Q1,2023,1,8093,0.09
+Kingston,cma,2023Q2,2023,2,8094,0.09
+Kingston,cma,2023Q3,2023,3,8095,0.09
+Kingston,cma,2023Q4,2023,4,8096,0.11
+Kingston,cma,2024Q1,2024,1,8097,0.14
+Kingston,cma,2024Q2,2024,2,8098,0.17
+Kingston,cma,2024Q3,2024,3,8099,0.14
+Kingston,cma,2024Q4,2024,4,8100,0.14
+Kingston,cma,2025Q1,2025,1,8101,0.16
+Kingston,cma,2025Q2,2025,2,8102,0.14
+Kingston,cma,2025Q3,2025,3,8103,0.16
+Kingston,cma,2025Q4,2025,4,8104,0.18
+Kitchener-Cambridge-Waterloo,cma,2012Q3,2012,3,8051,0.28
+Kitchener-Cambridge-Waterloo,cma,2012Q4,2012,4,8052,0.28
+Kitchener-Cambridge-Waterloo,cma,2013Q1,2013,1,8053,0.26
+Kitchener-Cambridge-Waterloo,cma,2013Q2,2013,2,8054,0.27
+Kitchener-Cambridge-Waterloo,cma,2013Q3,2013,3,8055,0.27
+Kitchener-Cambridge-Waterloo,cma,2013Q4,2013,4,8056,0.27
+Kitchener-Cambridge-Waterloo,cma,2014Q1,2014,1,8057,0.29
+Kitchener-Cambridge-Waterloo,cma,2014Q2,2014,2,8058,0.25
+Kitchener-Cambridge-Waterloo,cma,2014Q3,2014,3,8059,0.24
+Kitchener-Cambridge-Waterloo,cma,2014Q4,2014,4,8060,0.25
+Kitchener-Cambridge-Waterloo,cma,2015Q1,2015,1,8061,0.25
+Kitchener-Cambridge-Waterloo,cma,2015Q2,2015,2,8062,0.25
+Kitchener-Cambridge-Waterloo,cma,2015Q3,2015,3,8063,0.19
+Kitchener-Cambridge-Waterloo,cma,2015Q4,2015,4,8064,0.19
+Kitchener-Cambridge-Waterloo,cma,2016Q1,2016,1,8065,0.2
+Kitchener-Cambridge-Waterloo,cma,2016Q2,2016,2,8066,0.17
+Kitchener-Cambridge-Waterloo,cma,2016Q3,2016,3,8067,0.13
+Kitchener-Cambridge-Waterloo,cma,2016Q4,2016,4,8068,0.13
+Kitchener-Cambridge-Waterloo,cma,2017Q1,2017,1,8069,0.13
+Kitchener-Cambridge-Waterloo,cma,2017Q2,2017,2,8070,0.1
+Kitchener-Cambridge-Waterloo,cma,2017Q3,2017,3,8071,0.1
+Kitchener-Cambridge-Waterloo,cma,2017Q4,2017,4,8072,0.1
+Kitchener-Cambridge-Waterloo,cma,2018Q1,2018,1,8073,0.1
+Kitchener-Cambridge-Waterloo,cma,2018Q2,2018,2,8074,0.1
+Kitchener-Cambridge-Waterloo,cma,2018Q3,2018,3,8075,0.08
+Kitchener-Cambridge-Waterloo,cma,2018Q4,2018,4,8076,0.1
+Kitchener-Cambridge-Waterloo,cma,2019Q1,2019,1,8077,0.09
+Kitchener-Cambridge-Waterloo,cma,2019Q2,2019,2,8078,0.1
+Kitchener-Cambridge-Waterloo,cma,2019Q3,2019,3,8079,0.11
+Kitchener-Cambridge-Waterloo,cma,2019Q4,2019,4,8080,0.1
+Kitchener-Cambridge-Waterloo,cma,2020Q1,2020,1,8081,0.11
+Kitchener-Cambridge-Waterloo,cma,2020Q2,2020,2,8082,0.09
+Kitchener-Cambridge-Waterloo,cma,2020Q3,2020,3,8083,0.08
+Kitchener-Cambridge-Waterloo,cma,2020Q4,2020,4,8084,0.06
+Kitchener-Cambridge-Waterloo,cma,2021Q1,2021,1,8085,0.07
+Kitchener-Cambridge-Waterloo,cma,2021Q2,2021,2,8086,0.05
+Kitchener-Cambridge-Waterloo,cma,2021Q3,2021,3,8087,0.06
+Kitchener-Cambridge-Waterloo,cma,2021Q4,2021,4,8088,0.05
+Kitchener-Cambridge-Waterloo,cma,2022Q1,2022,1,8089,0.04
+Kitchener-Cambridge-Waterloo,cma,2022Q2,2022,2,8090,0.05
+Kitchener-Cambridge-Waterloo,cma,2022Q3,2022,3,8091,0.06
+Kitchener-Cambridge-Waterloo,cma,2022Q4,2022,4,8092,0.07
+Kitchener-Cambridge-Waterloo,cma,2023Q1,2023,1,8093,0.07
+Kitchener-Cambridge-Waterloo,cma,2023Q2,2023,2,8094,0.06
+Kitchener-Cambridge-Waterloo,cma,2023Q3,2023,3,8095,0.06
+Kitchener-Cambridge-Waterloo,cma,2023Q4,2023,4,8096,0.09
+Kitchener-Cambridge-Waterloo,cma,2024Q1,2024,1,8097,0.13
+Kitchener-Cambridge-Waterloo,cma,2024Q2,2024,2,8098,0.14
+Kitchener-Cambridge-Waterloo,cma,2024Q3,2024,3,8099,0.16
+Kitchener-Cambridge-Waterloo,cma,2024Q4,2024,4,8100,0.17
+Kitchener-Cambridge-Waterloo,cma,2025Q1,2025,1,8101,0.18
+Kitchener-Cambridge-Waterloo,cma,2025Q2,2025,2,8102,0.18
+Kitchener-Cambridge-Waterloo,cma,2025Q3,2025,3,8103,0.16
+Kitchener-Cambridge-Waterloo,cma,2025Q4,2025,4,8104,0.21
+London,cma,2012Q3,2012,3,8051,0.39
+London,cma,2012Q4,2012,4,8052,0.4
+London,cma,2013Q1,2013,1,8053,0.39
+London,cma,2013Q2,2013,2,8054,0.33
+London,cma,2013Q3,2013,3,8055,0.32
+London,cma,2013Q4,2013,4,8056,0.35
+London,cma,2014Q1,2014,1,8057,0.32
+London,cma,2014Q2,2014,2,8058,0.33
+London,cma,2014Q3,2014,3,8059,0.33
+London,cma,2014Q4,2014,4,8060,0.32
+London,cma,2015Q1,2015,1,8061,0.3
+London,cma,2015Q2,2015,2,8062,0.28
+London,cma,2015Q3,2015,3,8063,0.28
+London,cma,2015Q4,2015,4,8064,0.31
+London,cma,2016Q1,2016,1,8065,0.3
+London,cma,2016Q2,2016,2,8066,0.26
+London,cma,2016Q3,2016,3,8067,0.25
+London,cma,2016Q4,2016,4,8068,0.24
+London,cma,2017Q1,2017,1,8069,0.21
+London,cma,2017Q2,2017,2,8070,0.21
+London,cma,2017Q3,2017,3,8071,0.19
+London,cma,2017Q4,2017,4,8072,0.15
+London,cma,2018Q1,2018,1,8073,0.17
+London,cma,2018Q2,2018,2,8074,0.14
+London,cma,2018Q3,2018,3,8075,0.14
+London,cma,2018Q4,2018,4,8076,0.14
+London,cma,2019Q1,2019,1,8077,0.13
+London,cma,2019Q2,2019,2,8078,0.11
+London,cma,2019Q3,2019,3,8079,0.1
+London,cma,2019Q4,2019,4,8080,0.1
+London,cma,2020Q1,2020,1,8081,0.12
+London,cma,2020Q2,2020,2,8082,0.13
+London,cma,2020Q3,2020,3,8083,0.13
+London,cma,2020Q4,2020,4,8084,0.13
+London,cma,2021Q1,2021,1,8085,0.12
+London,cma,2021Q2,2021,2,8086,0.1
+London,cma,2021Q3,2021,3,8087,0.09
+London,cma,2021Q4,2021,4,8088,0.07
+London,cma,2022Q1,2022,1,8089,0.07
+London,cma,2022Q2,2022,2,8090,0.05
+London,cma,2022Q3,2022,3,8091,0.06
+London,cma,2022Q4,2022,4,8092,0.07
+London,cma,2023Q1,2023,1,8093,0.09
+London,cma,2023Q2,2023,2,8094,0.1
+London,cma,2023Q3,2023,3,8095,0.11
+London,cma,2023Q4,2023,4,8096,0.11
+London,cma,2024Q1,2024,1,8097,0.14
+London,cma,2024Q2,2024,2,8098,0.16
+London,cma,2024Q3,2024,3,8099,0.19
+London,cma,2024Q4,2024,4,8100,0.19
+London,cma,2025Q1,2025,1,8101,0.21
+London,cma,2025Q2,2025,2,8102,0.18
+London,cma,2025Q3,2025,3,8103,0.19
+London,cma,2025Q4,2025,4,8104,0.23
+Moncton,cma,2012Q3,2012,3,8051,0.64
+Moncton,cma,2012Q4,2012,4,8052,0.64
+Moncton,cma,2013Q1,2013,1,8053,0.67
+Moncton,cma,2013Q2,2013,2,8054,0.53
+Moncton,cma,2013Q3,2013,3,8055,0.57
+Moncton,cma,2013Q4,2013,4,8056,0.65
+Moncton,cma,2014Q1,2014,1,8057,0.69
+Moncton,cma,2014Q2,2014,2,8058,0.59
+Moncton,cma,2014Q3,2014,3,8059,0.68
+Moncton,cma,2014Q4,2014,4,8060,0.7
+Moncton,cma,2015Q1,2015,1,8061,0.74
+Moncton,cma,2015Q2,2015,2,8062,0.82
+Moncton,cma,2015Q3,2015,3,8063,0.8
+Moncton,cma,2015Q4,2015,4,8064,0.83
+Moncton,cma,2016Q1,2016,1,8065,0.87
+Moncton,cma,2016Q2,2016,2,8066,0.85
+Moncton,cma,2016Q3,2016,3,8067,0.84
+Moncton,cma,2016Q4,2016,4,8068,0.71
+Moncton,cma,2017Q1,2017,1,8069,0.7
+Moncton,cma,2017Q2,2017,2,8070,0.73
+Moncton,cma,2017Q3,2017,3,8071,0.71
+Moncton,cma,2017Q4,2017,4,8072,0.63
+Moncton,cma,2018Q1,2018,1,8073,0.61
+Moncton,cma,2018Q2,2018,2,8074,0.59
+Moncton,cma,2018Q3,2018,3,8075,0.61
+Moncton,cma,2018Q4,2018,4,8076,0.61
+Moncton,cma,2019Q1,2019,1,8077,0.61
+Moncton,cma,2019Q2,2019,2,8078,0.5
+Moncton,cma,2019Q3,2019,3,8079,0.5
+Moncton,cma,2019Q4,2019,4,8080,0.48
+Moncton,cma,2020Q1,2020,1,8081,0.45
+Moncton,cma,2020Q2,2020,2,8082,0.43
+Moncton,cma,2020Q3,2020,3,8083,0.41
+Moncton,cma,2020Q4,2020,4,8084,0.36
+Moncton,cma,2021Q1,2021,1,8085,0.33
+Moncton,cma,2021Q2,2021,2,8086,0.29
+Moncton,cma,2021Q3,2021,3,8087,0.21
+Moncton,cma,2021Q4,2021,4,8088,0.19
+Moncton,cma,2022Q1,2022,1,8089,0.19
+Moncton,cma,2022Q2,2022,2,8090,0.15
+Moncton,cma,2022Q3,2022,3,8091,0.16
+Moncton,cma,2022Q4,2022,4,8092,0.15
+Moncton,cma,2023Q1,2023,1,8093,0.13
+Moncton,cma,2023Q2,2023,2,8094,0.11
+Moncton,cma,2023Q3,2023,3,8095,0.16
+Moncton,cma,2023Q4,2023,4,8096,0.21
+Moncton,cma,2024Q1,2024,1,8097,0.25
+Moncton,cma,2024Q2,2024,2,8098,0.26
+Moncton,cma,2024Q3,2024,3,8099,0.23
+Moncton,cma,2024Q4,2024,4,8100,0.18
+Moncton,cma,2025Q1,2025,1,8101,0.17
+Moncton,cma,2025Q2,2025,2,8102,0.16
+Moncton,cma,2025Q3,2025,3,8103,0.19
+Moncton,cma,2025Q4,2025,4,8104,0.21
+Montréal,cma,2012Q3,2012,3,8051,0.33
+Montréal,cma,2012Q4,2012,4,8052,0.33
+Montréal,cma,2013Q1,2013,1,8053,0.35
+Montréal,cma,2013Q2,2013,2,8054,0.33
+Montréal,cma,2013Q3,2013,3,8055,0.32
+Montréal,cma,2013Q4,2013,4,8056,0.33
+Montréal,cma,2014Q1,2014,1,8057,0.35
+Montréal,cma,2014Q2,2014,2,8058,0.34
+Montréal,cma,2014Q3,2014,3,8059,0.35
+Montréal,cma,2014Q4,2014,4,8060,0.37
+Montréal,cma,2015Q1,2015,1,8061,0.39
+Montréal,cma,2015Q2,2015,2,8062,0.38
+Montréal,cma,2015Q3,2015,3,8063,0.38
+Montréal,cma,2015Q4,2015,4,8064,0.39
+Montréal,cma,2016Q1,2016,1,8065,0.4
+Montréal,cma,2016Q2,2016,2,8066,0.38
+Montréal,cma,2016Q3,2016,3,8067,0.37
+Montréal,cma,2016Q4,2016,4,8068,0.34
+Montréal,cma,2017Q1,2017,1,8069,0.35
+Montréal,cma,2017Q2,2017,2,8070,0.34
+Montréal,cma,2017Q3,2017,3,8071,0.31
+Montréal,cma,2017Q4,2017,4,8072,0.28
+Montréal,cma,2018Q1,2018,1,8073,0.29
+Montréal,cma,2018Q2,2018,2,8074,0.29
+Montréal,cma,2018Q3,2018,3,8075,0.29
+Montréal,cma,2018Q4,2018,4,8076,0.31
+Montréal,cma,2019Q1,2019,1,8077,0.3
+Montréal,cma,2019Q2,2019,2,8078,0.28
+Montréal,cma,2019Q3,2019,3,8079,0.28
+Montréal,cma,2019Q4,2019,4,8080,0.27
+Montréal,cma,2020Q1,2020,1,8081,0.26
+Montréal,cma,2020Q2,2020,2,8082,0.24
+Montréal,cma,2020Q3,2020,3,8083,0.25
+Montréal,cma,2020Q4,2020,4,8084,0.2
+Montréal,cma,2021Q1,2021,1,8085,0.19
+Montréal,cma,2021Q2,2021,2,8086,0.16
+Montréal,cma,2021Q3,2021,3,8087,0.15
+Montréal,cma,2021Q4,2021,4,8088,0.13
+Montréal,cma,2022Q1,2022,1,8089,0.12
+Montréal,cma,2022Q2,2022,2,8090,0.1
+Montréal,cma,2022Q3,2022,3,8091,0.09
+Montréal,cma,2022Q4,2022,4,8092,0.1
+Montréal,cma,2023Q1,2023,1,8093,0.09
+Montréal,cma,2023Q2,2023,2,8094,0.1
+Montréal,cma,2023Q3,2023,3,8095,0.1
+Montréal,cma,2023Q4,2023,4,8096,0.13
+Montréal,cma,2024Q1,2024,1,8097,0.15
+Montréal,cma,2024Q2,2024,2,8098,0.15
+Montréal,cma,2024Q3,2024,3,8099,0.15
+Montréal,cma,2024Q4,2024,4,8100,0.16
+Montréal,cma,2025Q1,2025,1,8101,0.17
+Montréal,cma,2025Q2,2025,2,8102,0.16
+Montréal,cma,2025Q3,2025,3,8103,0.16
+Montréal,cma,2025Q4,2025,4,8104,0.16
+Oshawa,cma,2012Q3,2012,3,8051,0.37
+Oshawa,cma,2012Q4,2012,4,8052,0.32
+Oshawa,cma,2013Q1,2013,1,8053,0.27
+Oshawa,cma,2013Q2,2013,2,8054,0.26
+Oshawa,cma,2013Q3,2013,3,8055,0.26
+Oshawa,cma,2013Q4,2013,4,8056,0.27
+Oshawa,cma,2014Q1,2014,1,8057,0.25
+Oshawa,cma,2014Q2,2014,2,8058,0.24
+Oshawa,cma,2014Q3,2014,3,8059,0.24
+Oshawa,cma,2014Q4,2014,4,8060,0.21
+Oshawa,cma,2015Q1,2015,1,8061,0.23
+Oshawa,cma,2015Q2,2015,2,8062,0.18
+Oshawa,cma,2015Q3,2015,3,8063,0.21
+Oshawa,cma,2015Q4,2015,4,8064,0.18
+Oshawa,cma,2016Q1,2016,1,8065,0.17
+Oshawa,cma,2016Q2,2016,2,8066,0.14
+Oshawa,cma,2016Q3,2016,3,8067,0.13
+Oshawa,cma,2016Q4,2016,4,8068,0.14
+Oshawa,cma,2017Q1,2017,1,8069,0.14
+Oshawa,cma,2017Q2,2017,2,8070,0.13
+Oshawa,cma,2017Q3,2017,3,8071,0.14
+Oshawa,cma,2017Q4,2017,4,8072,0.15
+Oshawa,cma,2018Q1,2018,1,8073,0.12
+Oshawa,cma,2018Q2,2018,2,8074,0.1
+Oshawa,cma,2018Q3,2018,3,8075,0.09
+Oshawa,cma,2018Q4,2018,4,8076,0.13
+Oshawa,cma,2019Q1,2019,1,8077,0.12
+Oshawa,cma,2019Q2,2019,2,8078,0.12
+Oshawa,cma,2019Q3,2019,3,8079,0.14
+Oshawa,cma,2019Q4,2019,4,8080,0.13
+Oshawa,cma,2020Q1,2020,1,8081,0.13
+Oshawa,cma,2020Q2,2020,2,8082,0.14
+Oshawa,cma,2020Q3,2020,3,8083,0.13
+Oshawa,cma,2020Q4,2020,4,8084,0.12
+Oshawa,cma,2021Q1,2021,1,8085,0.1
+Oshawa,cma,2021Q2,2021,2,8086,0.07
+Oshawa,cma,2021Q3,2021,3,8087,0.06
+Oshawa,cma,2021Q4,2021,4,8088,0.06
+Oshawa,cma,2022Q1,2022,1,8089,0.06
+Oshawa,cma,2022Q2,2022,2,8090,0.06
+Oshawa,cma,2022Q3,2022,3,8091,0.06
+Oshawa,cma,2022Q4,2022,4,8092,0.08
+Oshawa,cma,2023Q1,2023,1,8093,0.08
+Oshawa,cma,2023Q2,2023,2,8094,0.08
+Oshawa,cma,2023Q3,2023,3,8095,0.08
+Oshawa,cma,2023Q4,2023,4,8096,0.13
+Oshawa,cma,2024Q1,2024,1,8097,0.16
+Oshawa,cma,2024Q2,2024,2,8098,0.17
+Oshawa,cma,2024Q3,2024,3,8099,0.2
+Oshawa,cma,2024Q4,2024,4,8100,0.24
+Oshawa,cma,2025Q1,2025,1,8101,0.26
+Oshawa,cma,2025Q2,2025,2,8102,0.24
+Oshawa,cma,2025Q3,2025,3,8103,0.25
+Oshawa,cma,2025Q4,2025,4,8104,0.29
+Ottawa-Gatineau,cma,2012Q3,2012,3,8051,0.21
+Ottawa-Gatineau,cma,2012Q4,2012,4,8052,0.22
+Ottawa-Gatineau,cma,2013Q1,2013,1,8053,0.22
+Ottawa-Gatineau,cma,2013Q2,2013,2,8054,0.24
+Ottawa-Gatineau,cma,2013Q3,2013,3,8055,0.24
+Ottawa-Gatineau,cma,2013Q4,2013,4,8056,0.25
+Ottawa-Gatineau,cma,2014Q1,2014,1,8057,0.27
+Ottawa-Gatineau,cma,2014Q2,2014,2,8058,0.27
+Ottawa-Gatineau,cma,2014Q3,2014,3,8059,0.27
+Ottawa-Gatineau,cma,2014Q4,2014,4,8060,0.29
+Ottawa-Gatineau,cma,2015Q1,2015,1,8061,0.32
+Ottawa-Gatineau,cma,2015Q2,2015,2,8062,0.3
+Ottawa-Gatineau,cma,2015Q3,2015,3,8063,0.3
+Ottawa-Gatineau,cma,2015Q4,2015,4,8064,0.31
+Ottawa-Gatineau,cma,2016Q1,2016,1,8065,0.32
+Ottawa-Gatineau,cma,2016Q2,2016,2,8066,0.31
+Ottawa-Gatineau,cma,2016Q3,2016,3,8067,0.3
+Ottawa-Gatineau,cma,2016Q4,2016,4,8068,0.3
+Ottawa-Gatineau,cma,2017Q1,2017,1,8069,0.3
+Ottawa-Gatineau,cma,2017Q2,2017,2,8070,0.29
+Ottawa-Gatineau,cma,2017Q3,2017,3,8071,0.28
+Ottawa-Gatineau,cma,2017Q4,2017,4,8072,0.27
+Ottawa-Gatineau,cma,2018Q1,2018,1,8073,0.26
+Ottawa-Gatineau,cma,2018Q2,2018,2,8074,0.25
+Ottawa-Gatineau,cma,2018Q3,2018,3,8075,0.24
+Ottawa-Gatineau,cma,2018Q4,2018,4,8076,0.26
+Ottawa-Gatineau,cma,2019Q1,2019,1,8077,0.24
+Ottawa-Gatineau,cma,2019Q2,2019,2,8078,0.23
+Ottawa-Gatineau,cma,2019Q3,2019,3,8079,0.22
+Ottawa-Gatineau,cma,2019Q4,2019,4,8080,0.21
+Ottawa-Gatineau,cma,2020Q1,2020,1,8081,0.2
+Ottawa-Gatineau,cma,2020Q2,2020,2,8082,0.19
+Ottawa-Gatineau,cma,2020Q3,2020,3,8083,0.19
+Ottawa-Gatineau,cma,2020Q4,2020,4,8084,0.16
+Ottawa-Gatineau,cma,2021Q1,2021,1,8085,0.15
+Ottawa-Gatineau,cma,2021Q2,2021,2,8086,0.13
+Ottawa-Gatineau,cma,2021Q3,2021,3,8087,0.1
+Ottawa-Gatineau,cma,2021Q4,2021,4,8088,0.1
+Ottawa-Gatineau,cma,2022Q1,2022,1,8089,0.09
+Ottawa-Gatineau,cma,2022Q2,2022,2,8090,0.08
+Ottawa-Gatineau,cma,2022Q3,2022,3,8091,0.07
+Ottawa-Gatineau,cma,2022Q4,2022,4,8092,0.08
+Ottawa-Gatineau,cma,2023Q1,2023,1,8093,0.09
+Ottawa-Gatineau,cma,2023Q2,2023,2,8094,0.09
+Ottawa-Gatineau,cma,2023Q3,2023,3,8095,0.09
+Ottawa-Gatineau,cma,2023Q4,2023,4,8096,0.11
+Ottawa-Gatineau,cma,2024Q1,2024,1,8097,0.11
+Ottawa-Gatineau,cma,2024Q2,2024,2,8098,0.12
+Ottawa-Gatineau,cma,2024Q3,2024,3,8099,0.14
+Ottawa-Gatineau,cma,2024Q4,2024,4,8100,0.15
+Ottawa-Gatineau,cma,2025Q1,2025,1,8101,0.16
+Ottawa-Gatineau,cma,2025Q2,2025,2,8102,0.16
+Ottawa-Gatineau,cma,2025Q3,2025,3,8103,0.15
+Ottawa-Gatineau,cma,2025Q4,2025,4,8104,0.16
+Peterborough,cma,2012Q3,2012,3,8051,0.41
+Peterborough,cma,2012Q4,2012,4,8052,0.38
+Peterborough,cma,2013Q1,2013,1,8053,0.37
+Peterborough,cma,2013Q2,2013,2,8054,0.31
+Peterborough,cma,2013Q3,2013,3,8055,0.26
+Peterborough,cma,2013Q4,2013,4,8056,0.27
+Peterborough,cma,2014Q1,2014,1,8057,0.31
+Peterborough,cma,2014Q2,2014,2,8058,0.32
+Peterborough,cma,2014Q3,2014,3,8059,0.3
+Peterborough,cma,2014Q4,2014,4,8060,0.28
+Peterborough,cma,2015Q1,2015,1,8061,0.3
+Peterborough,cma,2015Q2,2015,2,8062,0.24
+Peterborough,cma,2015Q3,2015,3,8063,0.24
+Peterborough,cma,2015Q4,2015,4,8064,0.21
+Peterborough,cma,2016Q1,2016,1,8065,0.21
+Peterborough,cma,2016Q2,2016,2,8066,0.24
+Peterborough,cma,2016Q3,2016,3,8067,0.23
+Peterborough,cma,2016Q4,2016,4,8068,0.2
+Peterborough,cma,2017Q1,2017,1,8069,0.2
+Peterborough,cma,2017Q2,2017,2,8070,0.14
+Peterborough,cma,2017Q3,2017,3,8071,0.14
+Peterborough,cma,2017Q4,2017,4,8072,0.15
+Peterborough,cma,2018Q1,2018,1,8073,0.18
+Peterborough,cma,2018Q2,2018,2,8074,0.15
+Peterborough,cma,2018Q3,2018,3,8075,0.12
+Peterborough,cma,2018Q4,2018,4,8076,0.09
+Peterborough,cma,2019Q1,2019,1,8077,0.11
+Peterborough,cma,2019Q2,2019,2,8078,0.12
+Peterborough,cma,2019Q3,2019,3,8079,0.1
+Peterborough,cma,2019Q4,2019,4,8080,0.14
+Peterborough,cma,2020Q1,2020,1,8081,0.09
+Peterborough,cma,2020Q2,2020,2,8082,0.13
+Peterborough,cma,2020Q3,2020,3,8083,0.14
+Peterborough,cma,2020Q4,2020,4,8084,0.12
+Peterborough,cma,2021Q1,2021,1,8085,0.13
+Peterborough,cma,2021Q2,2021,2,8086,0.13
+Peterborough,cma,2021Q3,2021,3,8087,0.09
+Peterborough,cma,2021Q4,2021,4,8088,0.1
+Peterborough,cma,2022Q1,2022,1,8089,0.07
+Peterborough,cma,2022Q2,2022,2,8090,0.06
+Peterborough,cma,2022Q3,2022,3,8091,0.1
+Peterborough,cma,2022Q4,2022,4,8092,0.09
+Peterborough,cma,2023Q1,2023,1,8093,0.1
+Peterborough,cma,2023Q2,2023,2,8094,0.09
+Peterborough,cma,2023Q3,2023,3,8095,0.09
+Peterborough,cma,2023Q4,2023,4,8096,0.13
+Peterborough,cma,2024Q1,2024,1,8097,0.15
+Peterborough,cma,2024Q2,2024,2,8098,0.15
+Peterborough,cma,2024Q3,2024,3,8099,0.19
+Peterborough,cma,2024Q4,2024,4,8100,0.19
+Peterborough,cma,2025Q1,2025,1,8101,0.21
+Peterborough,cma,2025Q2,2025,2,8102,0.19
+Peterborough,cma,2025Q3,2025,3,8103,0.2
+Peterborough,cma,2025Q4,2025,4,8104,0.25
+Québec City,cma,2012Q3,2012,3,8051,0.14
+Québec City,cma,2012Q4,2012,4,8052,0.15
+Québec City,cma,2013Q1,2013,1,8053,0.16
+Québec City,cma,2013Q2,2013,2,8054,0.15
+Québec City,cma,2013Q3,2013,3,8055,0.16
+Québec City,cma,2013Q4,2013,4,8056,0.18
+Québec City,cma,2014Q1,2014,1,8057,0.18
+Québec City,cma,2014Q2,2014,2,8058,0.2
+Québec City,cma,2014Q3,2014,3,8059,0.19
+Québec City,cma,2014Q4,2014,4,8060,0.23
+Québec City,cma,2015Q1,2015,1,8061,0.24
+Québec City,cma,2015Q2,2015,2,8062,0.24
+Québec City,cma,2015Q3,2015,3,8063,0.23
+Québec City,cma,2015Q4,2015,4,8064,0.23
+Québec City,cma,2016Q1,2016,1,8065,0.25
+Québec City,cma,2016Q2,2016,2,8066,0.25
+Québec City,cma,2016Q3,2016,3,8067,0.25
+Québec City,cma,2016Q4,2016,4,8068,0.24
+Québec City,cma,2017Q1,2017,1,8069,0.24
+Québec City,cma,2017Q2,2017,2,8070,0.25
+Québec City,cma,2017Q3,2017,3,8071,0.25
+Québec City,cma,2017Q4,2017,4,8072,0.25
+Québec City,cma,2018Q1,2018,1,8073,0.22
+Québec City,cma,2018Q2,2018,2,8074,0.25
+Québec City,cma,2018Q3,2018,3,8075,0.24
+Québec City,cma,2018Q4,2018,4,8076,0.3
+Québec City,cma,2019Q1,2019,1,8077,0.28
+Québec City,cma,2019Q2,2019,2,8078,0.28
+Québec City,cma,2019Q3,2019,3,8079,0.27
+Québec City,cma,2019Q4,2019,4,8080,0.28
+Québec City,cma,2020Q1,2020,1,8081,0.28
+Québec City,cma,2020Q2,2020,2,8082,0.27
+Québec City,cma,2020Q3,2020,3,8083,0.3
+Québec City,cma,2020Q4,2020,4,8084,0.25
+Québec City,cma,2021Q1,2021,1,8085,0.24
+Québec City,cma,2021Q2,2021,2,8086,0.22
+Québec City,cma,2021Q3,2021,3,8087,0.2
+Québec City,cma,2021Q4,2021,4,8088,0.19
+Québec City,cma,2022Q1,2022,1,8089,0.17
+Québec City,cma,2022Q2,2022,2,8090,0.15
+Québec City,cma,2022Q3,2022,3,8091,0.12
+Québec City,cma,2022Q4,2022,4,8092,0.1
+Québec City,cma,2023Q1,2023,1,8093,0.11
+Québec City,cma,2023Q2,2023,2,8094,0.11
+Québec City,cma,2023Q3,2023,3,8095,0.11
+Québec City,cma,2023Q4,2023,4,8096,0.12
+Québec City,cma,2024Q1,2024,1,8097,0.12
+Québec City,cma,2024Q2,2024,2,8098,0.14
+Québec City,cma,2024Q3,2024,3,8099,0.13
+Québec City,cma,2024Q4,2024,4,8100,0.14
+Québec City,cma,2025Q1,2025,1,8101,0.13
+Québec City,cma,2025Q2,2025,2,8102,0.11
+Québec City,cma,2025Q3,2025,3,8103,0.11
+Québec City,cma,2025Q4,2025,4,8104,0.11
+Regina,cma,2012Q3,2012,3,8051,0.28
+Regina,cma,2012Q4,2012,4,8052,0.3
+Regina,cma,2013Q1,2013,1,8053,0.31
+Regina,cma,2013Q2,2013,2,8054,0.31
+Regina,cma,2013Q3,2013,3,8055,0.25
+Regina,cma,2013Q4,2013,4,8056,0.27
+Regina,cma,2014Q1,2014,1,8057,0.31
+Regina,cma,2014Q2,2014,2,8058,0.26
+Regina,cma,2014Q3,2014,3,8059,0.31
+Regina,cma,2014Q4,2014,4,8060,0.32
+Regina,cma,2015Q1,2015,1,8061,0.38
+Regina,cma,2015Q2,2015,2,8062,0.38
+Regina,cma,2015Q3,2015,3,8063,0.35
+Regina,cma,2015Q4,2015,4,8064,0.4
+Regina,cma,2016Q1,2016,1,8065,0.45
+Regina,cma,2016Q2,2016,2,8066,0.48
+Regina,cma,2016Q3,2016,3,8067,0.46
+Regina,cma,2016Q4,2016,4,8068,0.47
+Regina,cma,2017Q1,2017,1,8069,0.49
+Regina,cma,2017Q2,2017,2,8070,0.51
+Regina,cma,2017Q3,2017,3,8071,0.5
+Regina,cma,2017Q4,2017,4,8072,0.48
+Regina,cma,2018Q1,2018,1,8073,0.53
+Regina,cma,2018Q2,2018,2,8074,0.58
+Regina,cma,2018Q3,2018,3,8075,0.65
+Regina,cma,2018Q4,2018,4,8076,0.59
+Regina,cma,2019Q1,2019,1,8077,0.64
+Regina,cma,2019Q2,2019,2,8078,0.68
+Regina,cma,2019Q3,2019,3,8079,0.63
+Regina,cma,2019Q4,2019,4,8080,0.62
+Regina,cma,2020Q1,2020,1,8081,0.69
+Regina,cma,2020Q2,2020,2,8082,0.73
+Regina,cma,2020Q3,2020,3,8083,0.71
+Regina,cma,2020Q4,2020,4,8084,0.57
+Regina,cma,2021Q1,2021,1,8085,0.57
+Regina,cma,2021Q2,2021,2,8086,0.51
+Regina,cma,2021Q3,2021,3,8087,0.48
+Regina,cma,2021Q4,2021,4,8088,0.48
+Regina,cma,2022Q1,2022,1,8089,0.53
+Regina,cma,2022Q2,2022,2,8090,0.55
+Regina,cma,2022Q3,2022,3,8091,0.57
+Regina,cma,2022Q4,2022,4,8092,0.55
+Regina,cma,2023Q1,2023,1,8093,0.54
+Regina,cma,2023Q2,2023,2,8094,0.5
+Regina,cma,2023Q3,2023,3,8095,0.48
+Regina,cma,2023Q4,2023,4,8096,0.52
+Regina,cma,2024Q1,2024,1,8097,0.51
+Regina,cma,2024Q2,2024,2,8098,0.47
+Regina,cma,2024Q3,2024,3,8099,0.44
+Regina,cma,2024Q4,2024,4,8100,0.45
+Regina,cma,2025Q1,2025,1,8101,0.45
+Regina,cma,2025Q2,2025,2,8102,0.45
+Regina,cma,2025Q3,2025,3,8103,0.45
+Regina,cma,2025Q4,2025,4,8104,0.43
+Saguenay,cma,2012Q3,2012,3,8051,0.22
+Saguenay,cma,2012Q4,2012,4,8052,0.22
+Saguenay,cma,2013Q1,2013,1,8053,0.23
+Saguenay,cma,2013Q2,2013,2,8054,0.21
+Saguenay,cma,2013Q3,2013,3,8055,0.24
+Saguenay,cma,2013Q4,2013,4,8056,0.23
+Saguenay,cma,2014Q1,2014,1,8057,0.22
+Saguenay,cma,2014Q2,2014,2,8058,0.26
+Saguenay,cma,2014Q3,2014,3,8059,0.26
+Saguenay,cma,2014Q4,2014,4,8060,0.31
+Saguenay,cma,2015Q1,2015,1,8061,0.36
+Saguenay,cma,2015Q2,2015,2,8062,0.33
+Saguenay,cma,2015Q3,2015,3,8063,0.34
+Saguenay,cma,2015Q4,2015,4,8064,0.41
+Saguenay,cma,2016Q1,2016,1,8065,0.47
+Saguenay,cma,2016Q2,2016,2,8066,0.5
+Saguenay,cma,2016Q3,2016,3,8067,0.49
+Saguenay,cma,2016Q4,2016,4,8068,0.5
+Saguenay,cma,2017Q1,2017,1,8069,0.49
+Saguenay,cma,2017Q2,2017,2,8070,0.49
+Saguenay,cma,2017Q3,2017,3,8071,0.51
+Saguenay,cma,2017Q4,2017,4,8072,0.43
+Saguenay,cma,2018Q1,2018,1,8073,0.4
+Saguenay,cma,2018Q2,2018,2,8074,0.45
+Saguenay,cma,2018Q3,2018,3,8075,0.46
+Saguenay,cma,2018Q4,2018,4,8076,0.48
+Saguenay,cma,2019Q1,2019,1,8077,0.45
+Saguenay,cma,2019Q2,2019,2,8078,0.46
+Saguenay,cma,2019Q3,2019,3,8079,0.47
+Saguenay,cma,2019Q4,2019,4,8080,0.5
+Saguenay,cma,2020Q1,2020,1,8081,0.49
+Saguenay,cma,2020Q2,2020,2,8082,0.45
+Saguenay,cma,2020Q3,2020,3,8083,0.48
+Saguenay,cma,2020Q4,2020,4,8084,0.34
+Saguenay,cma,2021Q1,2021,1,8085,0.35
+Saguenay,cma,2021Q2,2021,2,8086,0.33
+Saguenay,cma,2021Q3,2021,3,8087,0.31
+Saguenay,cma,2021Q4,2021,4,8088,0.31
+Saguenay,cma,2022Q1,2022,1,8089,0.27
+Saguenay,cma,2022Q2,2022,2,8090,0.26
+Saguenay,cma,2022Q3,2022,3,8091,0.21
+Saguenay,cma,2022Q4,2022,4,8092,0.18
+Saguenay,cma,2023Q1,2023,1,8093,0.17
+Saguenay,cma,2023Q2,2023,2,8094,0.14
+Saguenay,cma,2023Q3,2023,3,8095,0.15
+Saguenay,cma,2023Q4,2023,4,8096,0.21
+Saguenay,cma,2024Q1,2024,1,8097,0.18
+Saguenay,cma,2024Q2,2024,2,8098,0.18
+Saguenay,cma,2024Q3,2024,3,8099,0.2
+Saguenay,cma,2024Q4,2024,4,8100,0.22
+Saguenay,cma,2025Q1,2025,1,8101,0.23
+Saguenay,cma,2025Q2,2025,2,8102,0.2
+Saguenay,cma,2025Q3,2025,3,8103,0.21
+Saguenay,cma,2025Q4,2025,4,8104,0.21
+Saint John,cma,2012Q3,2012,3,8051,0.5
+Saint John,cma,2012Q4,2012,4,8052,0.5
+Saint John,cma,2013Q1,2013,1,8053,0.56
+Saint John,cma,2013Q2,2013,2,8054,0.65
+Saint John,cma,2013Q3,2013,3,8055,0.62
+Saint John,cma,2013Q4,2013,4,8056,0.8
+Saint John,cma,2014Q1,2014,1,8057,0.76
+Saint John,cma,2014Q2,2014,2,8058,0.87
+Saint John,cma,2014Q3,2014,3,8059,0.86
+Saint John,cma,2014Q4,2014,4,8060,0.75
+Saint John,cma,2015Q1,2015,1,8061,0.83
+Saint John,cma,2015Q2,2015,2,8062,0.85
+Saint John,cma,2015Q3,2015,3,8063,0.83
+Saint John,cma,2015Q4,2015,4,8064,0.85
+Saint John,cma,2016Q1,2016,1,8065,0.88
+Saint John,cma,2016Q2,2016,2,8066,0.76
+Saint John,cma,2016Q3,2016,3,8067,0.79
+Saint John,cma,2016Q4,2016,4,8068,0.86
+Saint John,cma,2017Q1,2017,1,8069,0.72
+Saint John,cma,2017Q2,2017,2,8070,0.76
+Saint John,cma,2017Q3,2017,3,8071,0.73
+Saint John,cma,2017Q4,2017,4,8072,0.72
+Saint John,cma,2018Q1,2018,1,8073,0.68
+Saint John,cma,2018Q2,2018,2,8074,0.65
+Saint John,cma,2018Q3,2018,3,8075,0.58
+Saint John,cma,2018Q4,2018,4,8076,0.6
+Saint John,cma,2019Q1,2019,1,8077,0.55
+Saint John,cma,2019Q2,2019,2,8078,0.55
+Saint John,cma,2019Q3,2019,3,8079,0.53
+Saint John,cma,2019Q4,2019,4,8080,0.51
+Saint John,cma,2020Q1,2020,1,8081,0.52
+Saint John,cma,2020Q2,2020,2,8082,0.5
+Saint John,cma,2020Q3,2020,3,8083,0.43
+Saint John,cma,2020Q4,2020,4,8084,0.34
+Saint John,cma,2021Q1,2021,1,8085,0.36
+Saint John,cma,2021Q2,2021,2,8086,0.33
+Saint John,cma,2021Q3,2021,3,8087,0.25
+Saint John,cma,2021Q4,2021,4,8088,0.18
+Saint John,cma,2022Q1,2022,1,8089,0.22
+Saint John,cma,2022Q2,2022,2,8090,0.2
+Saint John,cma,2022Q3,2022,3,8091,0.17
+Saint John,cma,2022Q4,2022,4,8092,0.22
+Saint John,cma,2023Q1,2023,1,8093,0.18
+Saint John,cma,2023Q2,2023,2,8094,0.19
+Saint John,cma,2023Q3,2023,3,8095,0.15
+Saint John,cma,2023Q4,2023,4,8096,0.17
+Saint John,cma,2024Q1,2024,1,8097,0.17
+Saint John,cma,2024Q2,2024,2,8098,0.17
+Saint John,cma,2024Q3,2024,3,8099,0.19
+Saint John,cma,2024Q4,2024,4,8100,0.24
+Saint John,cma,2025Q1,2025,1,8101,0.2
+Saint John,cma,2025Q2,2025,2,8102,0.16
+Saint John,cma,2025Q3,2025,3,8103,0.2
+Saint John,cma,2025Q4,2025,4,8104,0.21
+Saskatoon,cma,2012Q3,2012,3,8051,0.26
+Saskatoon,cma,2012Q4,2012,4,8052,0.28
+Saskatoon,cma,2013Q1,2013,1,8053,0.28
+Saskatoon,cma,2013Q2,2013,2,8054,0.27
+Saskatoon,cma,2013Q3,2013,3,8055,0.26
+Saskatoon,cma,2013Q4,2013,4,8056,0.27
+Saskatoon,cma,2014Q1,2014,1,8057,0.28
+Saskatoon,cma,2014Q2,2014,2,8058,0.25
+Saskatoon,cma,2014Q3,2014,3,8059,0.21
+Saskatoon,cma,2014Q4,2014,4,8060,0.27
+Saskatoon,cma,2015Q1,2015,1,8061,0.29
+Saskatoon,cma,2015Q2,2015,2,8062,0.34
+Saskatoon,cma,2015Q3,2015,3,8063,0.36
+Saskatoon,cma,2015Q4,2015,4,8064,0.38
+Saskatoon,cma,2016Q1,2016,1,8065,0.39
+Saskatoon,cma,2016Q2,2016,2,8066,0.43
+Saskatoon,cma,2016Q3,2016,3,8067,0.48
+Saskatoon,cma,2016Q4,2016,4,8068,0.51
+Saskatoon,cma,2017Q1,2017,1,8069,0.52
+Saskatoon,cma,2017Q2,2017,2,8070,0.55
+Saskatoon,cma,2017Q3,2017,3,8071,0.53
+Saskatoon,cma,2017Q4,2017,4,8072,0.55
+Saskatoon,cma,2018Q1,2018,1,8073,0.52
+Saskatoon,cma,2018Q2,2018,2,8074,0.55
+Saskatoon,cma,2018Q3,2018,3,8075,0.56
+Saskatoon,cma,2018Q4,2018,4,8076,0.57
+Saskatoon,cma,2019Q1,2019,1,8077,0.57
+Saskatoon,cma,2019Q2,2019,2,8078,0.59
+Saskatoon,cma,2019Q3,2019,3,8079,0.61
+Saskatoon,cma,2019Q4,2019,4,8080,0.62
+Saskatoon,cma,2020Q1,2020,1,8081,0.6
+Saskatoon,cma,2020Q2,2020,2,8082,0.56
+Saskatoon,cma,2020Q3,2020,3,8083,0.52
+Saskatoon,cma,2020Q4,2020,4,8084,0.43
+Saskatoon,cma,2021Q1,2021,1,8085,0.44
+Saskatoon,cma,2021Q2,2021,2,8086,0.42
+Saskatoon,cma,2021Q3,2021,3,8087,0.37
+Saskatoon,cma,2021Q4,2021,4,8088,0.35
+Saskatoon,cma,2022Q1,2022,1,8089,0.32
+Saskatoon,cma,2022Q2,2022,2,8090,0.31
+Saskatoon,cma,2022Q3,2022,3,8091,0.34
+Saskatoon,cma,2022Q4,2022,4,8092,0.35
+Saskatoon,cma,2023Q1,2023,1,8093,0.34
+Saskatoon,cma,2023Q2,2023,2,8094,0.28
+Saskatoon,cma,2023Q3,2023,3,8095,0.29
+Saskatoon,cma,2023Q4,2023,4,8096,0.29
+Saskatoon,cma,2024Q1,2024,1,8097,0.33
+Saskatoon,cma,2024Q2,2024,2,8098,0.3
+Saskatoon,cma,2024Q3,2024,3,8099,0.3
+Saskatoon,cma,2024Q4,2024,4,8100,0.32
+Saskatoon,cma,2025Q1,2025,1,8101,0.32
+Saskatoon,cma,2025Q2,2025,2,8102,0.31
+Saskatoon,cma,2025Q3,2025,3,8103,0.25
+Saskatoon,cma,2025Q4,2025,4,8104,0.25
+Sherbrooke,cma,2012Q3,2012,3,8051,0.31
+Sherbrooke,cma,2012Q4,2012,4,8052,0.29
+Sherbrooke,cma,2013Q1,2013,1,8053,0.28
+Sherbrooke,cma,2013Q2,2013,2,8054,0.3
+Sherbrooke,cma,2013Q3,2013,3,8055,0.27
+Sherbrooke,cma,2013Q4,2013,4,8056,0.31
+Sherbrooke,cma,2014Q1,2014,1,8057,0.3
+Sherbrooke,cma,2014Q2,2014,2,8058,0.33
+Sherbrooke,cma,2014Q3,2014,3,8059,0.38
+Sherbrooke,cma,2014Q4,2014,4,8060,0.39
+Sherbrooke,cma,2015Q1,2015,1,8061,0.4
+Sherbrooke,cma,2015Q2,2015,2,8062,0.36
+Sherbrooke,cma,2015Q3,2015,3,8063,0.38
+Sherbrooke,cma,2015Q4,2015,4,8064,0.35
+Sherbrooke,cma,2016Q1,2016,1,8065,0.43
+Sherbrooke,cma,2016Q2,2016,2,8066,0.5
+Sherbrooke,cma,2016Q3,2016,3,8067,0.47
+Sherbrooke,cma,2016Q4,2016,4,8068,0.43
+Sherbrooke,cma,2017Q1,2017,1,8069,0.38
+Sherbrooke,cma,2017Q2,2017,2,8070,0.37
+Sherbrooke,cma,2017Q3,2017,3,8071,0.34
+Sherbrooke,cma,2017Q4,2017,4,8072,0.34
+Sherbrooke,cma,2018Q1,2018,1,8073,0.33
+Sherbrooke,cma,2018Q2,2018,2,8074,0.33
+Sherbrooke,cma,2018Q3,2018,3,8075,0.37
+Sherbrooke,cma,2018Q4,2018,4,8076,0.37
+Sherbrooke,cma,2019Q1,2019,1,8077,0.36
+Sherbrooke,cma,2019Q2,2019,2,8078,0.32
+Sherbrooke,cma,2019Q3,2019,3,8079,0.29
+Sherbrooke,cma,2019Q4,2019,4,8080,0.3
+Sherbrooke,cma,2020Q1,2020,1,8081,0.32
+Sherbrooke,cma,2020Q2,2020,2,8082,0.3
+Sherbrooke,cma,2020Q3,2020,3,8083,0.32
+Sherbrooke,cma,2020Q4,2020,4,8084,0.29
+Sherbrooke,cma,2021Q1,2021,1,8085,0.27
+Sherbrooke,cma,2021Q2,2021,2,8086,0.25
+Sherbrooke,cma,2021Q3,2021,3,8087,0.22
+Sherbrooke,cma,2021Q4,2021,4,8088,0.17
+Sherbrooke,cma,2022Q1,2022,1,8089,0.13
+Sherbrooke,cma,2022Q2,2022,2,8090,0.13
+Sherbrooke,cma,2022Q3,2022,3,8091,0.11
+Sherbrooke,cma,2022Q4,2022,4,8092,0.09
+Sherbrooke,cma,2023Q1,2023,1,8093,0.1
+Sherbrooke,cma,2023Q2,2023,2,8094,0.1
+Sherbrooke,cma,2023Q3,2023,3,8095,0.08
+Sherbrooke,cma,2023Q4,2023,4,8096,0.08
+Sherbrooke,cma,2024Q1,2024,1,8097,0.08
+Sherbrooke,cma,2024Q2,2024,2,8098,0.13
+Sherbrooke,cma,2024Q3,2024,3,8099,0.1
+Sherbrooke,cma,2024Q4,2024,4,8100,0.12
+Sherbrooke,cma,2025Q1,2025,1,8101,0.1
+Sherbrooke,cma,2025Q2,2025,2,8102,0.11
+Sherbrooke,cma,2025Q3,2025,3,8103,0.12
+Sherbrooke,cma,2025Q4,2025,4,8104,0.13
+St. Catharines-Niagara,cma,2012Q3,2012,3,8051,0.54
+St. Catharines-Niagara,cma,2012Q4,2012,4,8052,0.54
+St. Catharines-Niagara,cma,2013Q1,2013,1,8053,0.55
+St. Catharines-Niagara,cma,2013Q2,2013,2,8054,0.51
+St. Catharines-Niagara,cma,2013Q3,2013,3,8055,0.53
+St. Catharines-Niagara,cma,2013Q4,2013,4,8056,0.52
+St. Catharines-Niagara,cma,2014Q1,2014,1,8057,0.51
+St. Catharines-Niagara,cma,2014Q2,2014,2,8058,0.47
+St. Catharines-Niagara,cma,2014Q3,2014,3,8059,0.43
+St. Catharines-Niagara,cma,2014Q4,2014,4,8060,0.39
+St. Catharines-Niagara,cma,2015Q1,2015,1,8061,0.42
+St. Catharines-Niagara,cma,2015Q2,2015,2,8062,0.41
+St. Catharines-Niagara,cma,2015Q3,2015,3,8063,0.41
+St. Catharines-Niagara,cma,2015Q4,2015,4,8064,0.34
+St. Catharines-Niagara,cma,2016Q1,2016,1,8065,0.35
+St. Catharines-Niagara,cma,2016Q2,2016,2,8066,0.34
+St. Catharines-Niagara,cma,2016Q3,2016,3,8067,0.29
+St. Catharines-Niagara,cma,2016Q4,2016,4,8068,0.23
+St. Catharines-Niagara,cma,2017Q1,2017,1,8069,0.21
+St. Catharines-Niagara,cma,2017Q2,2017,2,8070,0.18
+St. Catharines-Niagara,cma,2017Q3,2017,3,8071,0.15
+St. Catharines-Niagara,cma,2017Q4,2017,4,8072,0.12
+St. Catharines-Niagara,cma,2018Q1,2018,1,8073,0.13
+St. Catharines-Niagara,cma,2018Q2,2018,2,8074,0.1
+St. Catharines-Niagara,cma,2018Q3,2018,3,8075,0.1
+St. Catharines-Niagara,cma,2018Q4,2018,4,8076,0.09
+St. Catharines-Niagara,cma,2019Q1,2019,1,8077,0.11
+St. Catharines-Niagara,cma,2019Q2,2019,2,8078,0.1
+St. Catharines-Niagara,cma,2019Q3,2019,3,8079,0.1
+St. Catharines-Niagara,cma,2019Q4,2019,4,8080,0.12
+St. Catharines-Niagara,cma,2020Q1,2020,1,8081,0.11
+St. Catharines-Niagara,cma,2020Q2,2020,2,8082,0.13
+St. Catharines-Niagara,cma,2020Q3,2020,3,8083,0.12
+St. Catharines-Niagara,cma,2020Q4,2020,4,8084,0.11
+St. Catharines-Niagara,cma,2021Q1,2021,1,8085,0.11
+St. Catharines-Niagara,cma,2021Q2,2021,2,8086,0.1
+St. Catharines-Niagara,cma,2021Q3,2021,3,8087,0.09
+St. Catharines-Niagara,cma,2021Q4,2021,4,8088,0.07
+St. Catharines-Niagara,cma,2022Q1,2022,1,8089,0.07
+St. Catharines-Niagara,cma,2022Q2,2022,2,8090,0.07
+St. Catharines-Niagara,cma,2022Q3,2022,3,8091,0.08
+St. Catharines-Niagara,cma,2022Q4,2022,4,8092,0.09
+St. Catharines-Niagara,cma,2023Q1,2023,1,8093,0.11
+St. Catharines-Niagara,cma,2023Q2,2023,2,8094,0.12
+St. Catharines-Niagara,cma,2023Q3,2023,3,8095,0.13
+St. Catharines-Niagara,cma,2023Q4,2023,4,8096,0.16
+St. Catharines-Niagara,cma,2024Q1,2024,1,8097,0.19
+St. Catharines-Niagara,cma,2024Q2,2024,2,8098,0.2
+St. Catharines-Niagara,cma,2024Q3,2024,3,8099,0.19
+St. Catharines-Niagara,cma,2024Q4,2024,4,8100,0.19
+St. Catharines-Niagara,cma,2025Q1,2025,1,8101,0.23
+St. Catharines-Niagara,cma,2025Q2,2025,2,8102,0.24
+St. Catharines-Niagara,cma,2025Q3,2025,3,8103,0.23
+St. Catharines-Niagara,cma,2025Q4,2025,4,8104,0.26
+St. John's,cma,2012Q3,2012,3,8051,0.18
+St. John's,cma,2012Q4,2012,4,8052,0.18
+St. John's,cma,2013Q1,2013,1,8053,0.19
+St. John's,cma,2013Q2,2013,2,8054,0.12
+St. John's,cma,2013Q3,2013,3,8055,0.12
+St. John's,cma,2013Q4,2013,4,8056,0.15
+St. John's,cma,2014Q1,2014,1,8057,0.17
+St. John's,cma,2014Q2,2014,2,8058,0.2
+St. John's,cma,2014Q3,2014,3,8059,0.22
+St. John's,cma,2014Q4,2014,4,8060,0.24
+St. John's,cma,2015Q1,2015,1,8061,0.26
+St. John's,cma,2015Q2,2015,2,8062,0.27
+St. John's,cma,2015Q3,2015,3,8063,0.27
+St. John's,cma,2015Q4,2015,4,8064,0.31
+St. John's,cma,2016Q1,2016,1,8065,0.33
+St. John's,cma,2016Q2,2016,2,8066,0.32
+St. John's,cma,2016Q3,2016,3,8067,0.32
+St. John's,cma,2016Q4,2016,4,8068,0.32
+St. John's,cma,2017Q1,2017,1,8069,0.37
+St. John's,cma,2017Q2,2017,2,8070,0.34
+St. John's,cma,2017Q3,2017,3,8071,0.34
+St. John's,cma,2017Q4,2017,4,8072,0.42
+St. John's,cma,2018Q1,2018,1,8073,0.45
+St. John's,cma,2018Q2,2018,2,8074,0.52
+St. John's,cma,2018Q3,2018,3,8075,0.5
+St. John's,cma,2018Q4,2018,4,8076,0.49
+St. John's,cma,2019Q1,2019,1,8077,0.5
+St. John's,cma,2019Q2,2019,2,8078,0.49
+St. John's,cma,2019Q3,2019,3,8079,0.48
+St. John's,cma,2019Q4,2019,4,8080,0.5
+St. John's,cma,2020Q1,2020,1,8081,0.5
+St. John's,cma,2020Q2,2020,2,8082,0.5
+St. John's,cma,2020Q3,2020,3,8083,0.45
+St. John's,cma,2020Q4,2020,4,8084,0.36
+St. John's,cma,2021Q1,2021,1,8085,0.37
+St. John's,cma,2021Q2,2021,2,8086,0.33
+St. John's,cma,2021Q3,2021,3,8087,0.32
+St. John's,cma,2021Q4,2021,4,8088,0.32
+St. John's,cma,2022Q1,2022,1,8089,0.28
+St. John's,cma,2022Q2,2022,2,8090,0.24
+St. John's,cma,2022Q3,2022,3,8091,0.23
+St. John's,cma,2022Q4,2022,4,8092,0.26
+St. John's,cma,2023Q1,2023,1,8093,0.3
+St. John's,cma,2023Q2,2023,2,8094,0.24
+St. John's,cma,2023Q3,2023,3,8095,0.25
+St. John's,cma,2023Q4,2023,4,8096,0.27
+St. John's,cma,2024Q1,2024,1,8097,0.27
+St. John's,cma,2024Q2,2024,2,8098,0.25
+St. John's,cma,2024Q3,2024,3,8099,0.28
+St. John's,cma,2024Q4,2024,4,8100,0.29
+St. John's,cma,2025Q1,2025,1,8101,0.24
+St. John's,cma,2025Q2,2025,2,8102,0.22
+St. John's,cma,2025Q3,2025,3,8103,0.2
+St. John's,cma,2025Q4,2025,4,8104,0.21
+Thunder Bay,cma,2012Q3,2012,3,8051,0.33
+Thunder Bay,cma,2012Q4,2012,4,8052,0.32
+Thunder Bay,cma,2013Q1,2013,1,8053,0.33
+Thunder Bay,cma,2013Q2,2013,2,8054,0.28
+Thunder Bay,cma,2013Q3,2013,3,8055,0.32
+Thunder Bay,cma,2013Q4,2013,4,8056,0.29
+Thunder Bay,cma,2014Q1,2014,1,8057,0.31
+Thunder Bay,cma,2014Q2,2014,2,8058,0.25
+Thunder Bay,cma,2014Q3,2014,3,8059,0.19
+Thunder Bay,cma,2014Q4,2014,4,8060,0.21
+Thunder Bay,cma,2015Q1,2015,1,8061,0.28
+Thunder Bay,cma,2015Q2,2015,2,8062,0.26
+Thunder Bay,cma,2015Q3,2015,3,8063,0.28
+Thunder Bay,cma,2015Q4,2015,4,8064,0.23
+Thunder Bay,cma,2016Q1,2016,1,8065,0.25
+Thunder Bay,cma,2016Q2,2016,2,8066,0.25
+Thunder Bay,cma,2016Q3,2016,3,8067,0.27
+Thunder Bay,cma,2016Q4,2016,4,8068,0.21
+Thunder Bay,cma,2017Q1,2017,1,8069,0.27
+Thunder Bay,cma,2017Q2,2017,2,8070,0.24
+Thunder Bay,cma,2017Q3,2017,3,8071,0.24
+Thunder Bay,cma,2017Q4,2017,4,8072,0.23
+Thunder Bay,cma,2018Q1,2018,1,8073,0.25
+Thunder Bay,cma,2018Q2,2018,2,8074,0.24
+Thunder Bay,cma,2018Q3,2018,3,8075,0.31
+Thunder Bay,cma,2018Q4,2018,4,8076,0.35
+Thunder Bay,cma,2019Q1,2019,1,8077,0.36
+Thunder Bay,cma,2019Q2,2019,2,8078,0.32
+Thunder Bay,cma,2019Q3,2019,3,8079,0.38
+Thunder Bay,cma,2019Q4,2019,4,8080,0.3
+Thunder Bay,cma,2020Q1,2020,1,8081,0.29
+Thunder Bay,cma,2020Q2,2020,2,8082,0.31
+Thunder Bay,cma,2020Q3,2020,3,8083,0.32
+Thunder Bay,cma,2020Q4,2020,4,8084,0.26
+Thunder Bay,cma,2021Q1,2021,1,8085,0.28
+Thunder Bay,cma,2021Q2,2021,2,8086,0.21
+Thunder Bay,cma,2021Q3,2021,3,8087,0.21
+Thunder Bay,cma,2021Q4,2021,4,8088,0.19
+Thunder Bay,cma,2022Q1,2022,1,8089,0.21
+Thunder Bay,cma,2022Q2,2022,2,8090,0.18
+Thunder Bay,cma,2022Q3,2022,3,8091,0.2
+Thunder Bay,cma,2022Q4,2022,4,8092,0.26
+Thunder Bay,cma,2023Q1,2023,1,8093,0.21
+Thunder Bay,cma,2023Q2,2023,2,8094,0.19
+Thunder Bay,cma,2023Q3,2023,3,8095,0.16
+Thunder Bay,cma,2023Q4,2023,4,8096,0.15
+Thunder Bay,cma,2024Q1,2024,1,8097,0.24
+Thunder Bay,cma,2024Q2,2024,2,8098,0.2
+Thunder Bay,cma,2024Q3,2024,3,8099,0.22
+Thunder Bay,cma,2024Q4,2024,4,8100,0.31
+Thunder Bay,cma,2025Q1,2025,1,8101,0.26
+Thunder Bay,cma,2025Q2,2025,2,8102,0.3
+Thunder Bay,cma,2025Q3,2025,3,8103,0.24
+Thunder Bay,cma,2025Q4,2025,4,8104,0.25
+Toronto,cma,2012Q3,2012,3,8051,0.24
+Toronto,cma,2012Q4,2012,4,8052,0.23
+Toronto,cma,2013Q1,2013,1,8053,0.23
+Toronto,cma,2013Q2,2013,2,8054,0.21
+Toronto,cma,2013Q3,2013,3,8055,0.2
+Toronto,cma,2013Q4,2013,4,8056,0.2
+Toronto,cma,2014Q1,2014,1,8057,0.22
+Toronto,cma,2014Q2,2014,2,8058,0.19
+Toronto,cma,2014Q3,2014,3,8059,0.19
+Toronto,cma,2014Q4,2014,4,8060,0.18
+Toronto,cma,2015Q1,2015,1,8061,0.19
+Toronto,cma,2015Q2,2015,2,8062,0.16
+Toronto,cma,2015Q3,2015,3,8063,0.15
+Toronto,cma,2015Q4,2015,4,8064,0.15
+Toronto,cma,2016Q1,2016,1,8065,0.15
+Toronto,cma,2016Q2,2016,2,8066,0.14
+Toronto,cma,2016Q3,2016,3,8067,0.13
+Toronto,cma,2016Q4,2016,4,8068,0.12
+Toronto,cma,2017Q1,2017,1,8069,0.11
+Toronto,cma,2017Q2,2017,2,8070,0.1
+Toronto,cma,2017Q3,2017,3,8071,0.09
+Toronto,cma,2017Q4,2017,4,8072,0.09
+Toronto,cma,2018Q1,2018,1,8073,0.09
+Toronto,cma,2018Q2,2018,2,8074,0.1
+Toronto,cma,2018Q3,2018,3,8075,0.1
+Toronto,cma,2018Q4,2018,4,8076,0.1
+Toronto,cma,2019Q1,2019,1,8077,0.1
+Toronto,cma,2019Q2,2019,2,8078,0.1
+Toronto,cma,2019Q3,2019,3,8079,0.11
+Toronto,cma,2019Q4,2019,4,8080,0.11
+Toronto,cma,2020Q1,2020,1,8081,0.11
+Toronto,cma,2020Q2,2020,2,8082,0.11
+Toronto,cma,2020Q3,2020,3,8083,0.12
+Toronto,cma,2020Q4,2020,4,8084,0.1
+Toronto,cma,2021Q1,2021,1,8085,0.1
+Toronto,cma,2021Q2,2021,2,8086,0.09
+Toronto,cma,2021Q3,2021,3,8087,0.08
+Toronto,cma,2021Q4,2021,4,8088,0.07
+Toronto,cma,2022Q1,2022,1,8089,0.07
+Toronto,cma,2022Q2,2022,2,8090,0.06
+Toronto,cma,2022Q3,2022,3,8091,0.06
+Toronto,cma,2022Q4,2022,4,8092,0.07
+Toronto,cma,2023Q1,2023,1,8093,0.08
+Toronto,cma,2023Q2,2023,2,8094,0.08
+Toronto,cma,2023Q3,2023,3,8095,0.1
+Toronto,cma,2023Q4,2023,4,8096,0.12
+Toronto,cma,2024Q1,2024,1,8097,0.14
+Toronto,cma,2024Q2,2024,2,8098,0.15
+Toronto,cma,2024Q3,2024,3,8099,0.17
+Toronto,cma,2024Q4,2024,4,8100,0.2
+Toronto,cma,2025Q1,2025,1,8101,0.23
+Toronto,cma,2025Q2,2025,2,8102,0.24
+Toronto,cma,2025Q3,2025,3,8103,0.26
+Toronto,cma,2025Q4,2025,4,8104,0.29
+Trois-Riviéres,cma,2012Q3,2012,3,8051,0.37
+Trois-Riviéres,cma,2012Q4,2012,4,8052,0.34
+Trois-Riviéres,cma,2013Q1,2013,1,8053,0.34
+Trois-Riviéres,cma,2013Q2,2013,2,8054,0.33
+Trois-Riviéres,cma,2013Q3,2013,3,8055,0.36
+Trois-Riviéres,cma,2013Q4,2013,4,8056,0.43
+Trois-Riviéres,cma,2014Q1,2014,1,8057,0.38
+Trois-Riviéres,cma,2014Q2,2014,2,8058,0.39
+Trois-Riviéres,cma,2014Q3,2014,3,8059,0.39
+Trois-Riviéres,cma,2014Q4,2014,4,8060,0.39
+Trois-Riviéres,cma,2015Q1,2015,1,8061,0.46
+Trois-Riviéres,cma,2015Q2,2015,2,8062,0.42
+Trois-Riviéres,cma,2015Q3,2015,3,8063,0.45
+Trois-Riviéres,cma,2015Q4,2015,4,8064,0.51
+Trois-Riviéres,cma,2016Q1,2016,1,8065,0.59
+Trois-Riviéres,cma,2016Q2,2016,2,8066,0.64
+Trois-Riviéres,cma,2016Q3,2016,3,8067,0.67
+Trois-Riviéres,cma,2016Q4,2016,4,8068,0.59
+Trois-Riviéres,cma,2017Q1,2017,1,8069,0.61
+Trois-Riviéres,cma,2017Q2,2017,2,8070,0.56
+Trois-Riviéres,cma,2017Q3,2017,3,8071,0.51
+Trois-Riviéres,cma,2017Q4,2017,4,8072,0.42
+Trois-Riviéres,cma,2018Q1,2018,1,8073,0.47
+Trois-Riviéres,cma,2018Q2,2018,2,8074,0.47
+Trois-Riviéres,cma,2018Q3,2018,3,8075,0.48
+Trois-Riviéres,cma,2018Q4,2018,4,8076,0.5
+Trois-Riviéres,cma,2019Q1,2019,1,8077,0.52
+Trois-Riviéres,cma,2019Q2,2019,2,8078,0.43
+Trois-Riviéres,cma,2019Q3,2019,3,8079,0.44
+Trois-Riviéres,cma,2019Q4,2019,4,8080,0.45
+Trois-Riviéres,cma,2020Q1,2020,1,8081,0.43
+Trois-Riviéres,cma,2020Q2,2020,2,8082,0.37
+Trois-Riviéres,cma,2020Q3,2020,3,8083,0.39
+Trois-Riviéres,cma,2020Q4,2020,4,8084,0.3
+Trois-Riviéres,cma,2021Q1,2021,1,8085,0.3
+Trois-Riviéres,cma,2021Q2,2021,2,8086,0.3
+Trois-Riviéres,cma,2021Q3,2021,3,8087,0.3
+Trois-Riviéres,cma,2021Q4,2021,4,8088,0.26
+Trois-Riviéres,cma,2022Q1,2022,1,8089,0.2
+Trois-Riviéres,cma,2022Q2,2022,2,8090,0.17
+Trois-Riviéres,cma,2022Q3,2022,3,8091,0.14
+Trois-Riviéres,cma,2022Q4,2022,4,8092,0.13
+Trois-Riviéres,cma,2023Q1,2023,1,8093,0.1
+Trois-Riviéres,cma,2023Q2,2023,2,8094,0.09
+Trois-Riviéres,cma,2023Q3,2023,3,8095,0.12
+Trois-Riviéres,cma,2023Q4,2023,4,8096,0.13
+Trois-Riviéres,cma,2024Q1,2024,1,8097,0.14
+Trois-Riviéres,cma,2024Q2,2024,2,8098,0.17
+Trois-Riviéres,cma,2024Q3,2024,3,8099,0.15
+Trois-Riviéres,cma,2024Q4,2024,4,8100,0.13
+Trois-Riviéres,cma,2025Q1,2025,1,8101,0.15
+Trois-Riviéres,cma,2025Q2,2025,2,8102,0.09
+Trois-Riviéres,cma,2025Q3,2025,3,8103,0.11
+Trois-Riviéres,cma,2025Q4,2025,4,8104,0.13
+Vancouver,cma,2012Q3,2012,3,8051,0.29
+Vancouver,cma,2012Q4,2012,4,8052,0.29
+Vancouver,cma,2013Q1,2013,1,8053,0.31
+Vancouver,cma,2013Q2,2013,2,8054,0.31
+Vancouver,cma,2013Q3,2013,3,8055,0.31
+Vancouver,cma,2013Q4,2013,4,8056,0.31
+Vancouver,cma,2014Q1,2014,1,8057,0.31
+Vancouver,cma,2014Q2,2014,2,8058,0.3
+Vancouver,cma,2014Q3,2014,3,8059,0.3
+Vancouver,cma,2014Q4,2014,4,8060,0.29
+Vancouver,cma,2015Q1,2015,1,8061,0.29
+Vancouver,cma,2015Q2,2015,2,8062,0.28
+Vancouver,cma,2015Q3,2015,3,8063,0.25
+Vancouver,cma,2015Q4,2015,4,8064,0.23
+Vancouver,cma,2016Q1,2016,1,8065,0.23
+Vancouver,cma,2016Q2,2016,2,8066,0.2
+Vancouver,cma,2016Q3,2016,3,8067,0.17
+Vancouver,cma,2016Q4,2016,4,8068,0.15
+Vancouver,cma,2017Q1,2017,1,8069,0.14
+Vancouver,cma,2017Q2,2017,2,8070,0.13
+Vancouver,cma,2017Q3,2017,3,8071,0.11
+Vancouver,cma,2017Q4,2017,4,8072,0.11
+Vancouver,cma,2018Q1,2018,1,8073,0.11
+Vancouver,cma,2018Q2,2018,2,8074,0.1
+Vancouver,cma,2018Q3,2018,3,8075,0.11
+Vancouver,cma,2018Q4,2018,4,8076,0.11
+Vancouver,cma,2019Q1,2019,1,8077,0.12
+Vancouver,cma,2019Q2,2019,2,8078,0.12
+Vancouver,cma,2019Q3,2019,3,8079,0.12
+Vancouver,cma,2019Q4,2019,4,8080,0.12
+Vancouver,cma,2020Q1,2020,1,8081,0.13
+Vancouver,cma,2020Q2,2020,2,8082,0.15
+Vancouver,cma,2020Q3,2020,3,8083,0.15
+Vancouver,cma,2020Q4,2020,4,8084,0.13
+Vancouver,cma,2021Q1,2021,1,8085,0.14
+Vancouver,cma,2021Q2,2021,2,8086,0.12
+Vancouver,cma,2021Q3,2021,3,8087,0.11
+Vancouver,cma,2021Q4,2021,4,8088,0.1
+Vancouver,cma,2022Q1,2022,1,8089,0.1
+Vancouver,cma,2022Q2,2022,2,8090,0.09
+Vancouver,cma,2022Q3,2022,3,8091,0.08
+Vancouver,cma,2022Q4,2022,4,8092,0.08
+Vancouver,cma,2023Q1,2023,1,8093,0.08
+Vancouver,cma,2023Q2,2023,2,8094,0.09
+Vancouver,cma,2023Q3,2023,3,8095,0.1
+Vancouver,cma,2023Q4,2023,4,8096,0.12
+Vancouver,cma,2024Q1,2024,1,8097,0.13
+Vancouver,cma,2024Q2,2024,2,8098,0.15
+Vancouver,cma,2024Q3,2024,3,8099,0.14
+Vancouver,cma,2024Q4,2024,4,8100,0.16
+Vancouver,cma,2025Q1,2025,1,8101,0.17
+Vancouver,cma,2025Q2,2025,2,8102,0.18
+Vancouver,cma,2025Q3,2025,3,8103,0.18
+Vancouver,cma,2025Q4,2025,4,8104,0.21
+Victoria,cma,2012Q3,2012,3,8051,0.31
+Victoria,cma,2012Q4,2012,4,8052,0.35
+Victoria,cma,2013Q1,2013,1,8053,0.39
+Victoria,cma,2013Q2,2013,2,8054,0.36
+Victoria,cma,2013Q3,2013,3,8055,0.36
+Victoria,cma,2013Q4,2013,4,8056,0.36
+Victoria,cma,2014Q1,2014,1,8057,0.39
+Victoria,cma,2014Q2,2014,2,8058,0.37
+Victoria,cma,2014Q3,2014,3,8059,0.35
+Victoria,cma,2014Q4,2014,4,8060,0.36
+Victoria,cma,2015Q1,2015,1,8061,0.35
+Victoria,cma,2015Q2,2015,2,8062,0.31
+Victoria,cma,2015Q3,2015,3,8063,0.29
+Victoria,cma,2015Q4,2015,4,8064,0.29
+Victoria,cma,2016Q1,2016,1,8065,0.29
+Victoria,cma,2016Q2,2016,2,8066,0.29
+Victoria,cma,2016Q3,2016,3,8067,0.24
+Victoria,cma,2016Q4,2016,4,8068,0.22
+Victoria,cma,2017Q1,2017,1,8069,0.22
+Victoria,cma,2017Q2,2017,2,8070,0.19
+Victoria,cma,2017Q3,2017,3,8071,0.13
+Victoria,cma,2017Q4,2017,4,8072,0.12
+Victoria,cma,2018Q1,2018,1,8073,0.12
+Victoria,cma,2018Q2,2018,2,8074,0.13
+Victoria,cma,2018Q3,2018,3,8075,0.12
+Victoria,cma,2018Q4,2018,4,8076,0.12
+Victoria,cma,2019Q1,2019,1,8077,0.13
+Victoria,cma,2019Q2,2019,2,8078,0.12
+Victoria,cma,2019Q3,2019,3,8079,0.11
+Victoria,cma,2019Q4,2019,4,8080,0.11
+Victoria,cma,2020Q1,2020,1,8081,0.11
+Victoria,cma,2020Q2,2020,2,8082,0.11
+Victoria,cma,2020Q3,2020,3,8083,0.12
+Victoria,cma,2020Q4,2020,4,8084,0.12
+Victoria,cma,2021Q1,2021,1,8085,0.1
+Victoria,cma,2021Q2,2021,2,8086,0.08
+Victoria,cma,2021Q3,2021,3,8087,0.09
+Victoria,cma,2021Q4,2021,4,8088,0.09
+Victoria,cma,2022Q1,2022,1,8089,0.08
+Victoria,cma,2022Q2,2022,2,8090,0.08
+Victoria,cma,2022Q3,2022,3,8091,0.06
+Victoria,cma,2022Q4,2022,4,8092,0.08
+Victoria,cma,2023Q1,2023,1,8093,0.07
+Victoria,cma,2023Q2,2023,2,8094,0.09
+Victoria,cma,2023Q3,2023,3,8095,0.1
+Victoria,cma,2023Q4,2023,4,8096,0.08
+Victoria,cma,2024Q1,2024,1,8097,0.07
+Victoria,cma,2024Q2,2024,2,8098,0.1
+Victoria,cma,2024Q3,2024,3,8099,0.1
+Victoria,cma,2024Q4,2024,4,8100,0.11
+Victoria,cma,2025Q1,2025,1,8101,0.09
+Victoria,cma,2025Q2,2025,2,8102,0.1
+Victoria,cma,2025Q3,2025,3,8103,0.09
+Victoria,cma,2025Q4,2025,4,8104,0.1
+Windsor,cma,2012Q3,2012,3,8051,0.54
+Windsor,cma,2012Q4,2012,4,8052,0.53
+Windsor,cma,2013Q1,2013,1,8053,0.51
+Windsor,cma,2013Q2,2013,2,8054,0.47
+Windsor,cma,2013Q3,2013,3,8055,0.44
+Windsor,cma,2013Q4,2013,4,8056,0.4
+Windsor,cma,2014Q1,2014,1,8057,0.4
+Windsor,cma,2014Q2,2014,2,8058,0.34
+Windsor,cma,2014Q3,2014,3,8059,0.38
+Windsor,cma,2014Q4,2014,4,8060,0.38
+Windsor,cma,2015Q1,2015,1,8061,0.36
+Windsor,cma,2015Q2,2015,2,8062,0.35
+Windsor,cma,2015Q3,2015,3,8063,0.35
+Windsor,cma,2015Q4,2015,4,8064,0.4
+Windsor,cma,2016Q1,2016,1,8065,0.33
+Windsor,cma,2016Q2,2016,2,8066,0.26
+Windsor,cma,2016Q3,2016,3,8067,0.24
+Windsor,cma,2016Q4,2016,4,8068,0.24
+Windsor,cma,2017Q1,2017,1,8069,0.22
+Windsor,cma,2017Q2,2017,2,8070,0.2
+Windsor,cma,2017Q3,2017,3,8071,0.21
+Windsor,cma,2017Q4,2017,4,8072,0.19
+Windsor,cma,2018Q1,2018,1,8073,0.18
+Windsor,cma,2018Q2,2018,2,8074,0.18
+Windsor,cma,2018Q3,2018,3,8075,0.16
+Windsor,cma,2018Q4,2018,4,8076,0.16
+Windsor,cma,2019Q1,2019,1,8077,0.15
+Windsor,cma,2019Q2,2019,2,8078,0.15
+Windsor,cma,2019Q3,2019,3,8079,0.16
+Windsor,cma,2019Q4,2019,4,8080,0.15
+Windsor,cma,2020Q1,2020,1,8081,0.13
+Windsor,cma,2020Q2,2020,2,8082,0.12
+Windsor,cma,2020Q3,2020,3,8083,0.16
+Windsor,cma,2020Q4,2020,4,8084,0.11
+Windsor,cma,2021Q1,2021,1,8085,0.14
+Windsor,cma,2021Q2,2021,2,8086,0.09
+Windsor,cma,2021Q3,2021,3,8087,0.09
+Windsor,cma,2021Q4,2021,4,8088,0.09
+Windsor,cma,2022Q1,2022,1,8089,0.08
+Windsor,cma,2022Q2,2022,2,8090,0.07
+Windsor,cma,2022Q3,2022,3,8091,0.06
+Windsor,cma,2022Q4,2022,4,8092,0.09
+Windsor,cma,2023Q1,2023,1,8093,0.1
+Windsor,cma,2023Q2,2023,2,8094,0.09
+Windsor,cma,2023Q3,2023,3,8095,0.1
+Windsor,cma,2023Q4,2023,4,8096,0.12
+Windsor,cma,2024Q1,2024,1,8097,0.14
+Windsor,cma,2024Q2,2024,2,8098,0.15
+Windsor,cma,2024Q3,2024,3,8099,0.18
+Windsor,cma,2024Q4,2024,4,8100,0.15
+Windsor,cma,2025Q1,2025,1,8101,0.16
+Windsor,cma,2025Q2,2025,2,8102,0.18
+Windsor,cma,2025Q3,2025,3,8103,0.19
+Windsor,cma,2025Q4,2025,4,8104,0.22
+Winnipeg,cma,2012Q3,2012,3,8051,0.2
+Winnipeg,cma,2012Q4,2012,4,8052,0.22
+Winnipeg,cma,2013Q1,2013,1,8053,0.23
+Winnipeg,cma,2013Q2,2013,2,8054,0.21
+Winnipeg,cma,2013Q3,2013,3,8055,0.23
+Winnipeg,cma,2013Q4,2013,4,8056,0.22
+Winnipeg,cma,2014Q1,2014,1,8057,0.23
+Winnipeg,cma,2014Q2,2014,2,8058,0.2
+Winnipeg,cma,2014Q3,2014,3,8059,0.2
+Winnipeg,cma,2014Q4,2014,4,8060,0.21
+Winnipeg,cma,2015Q1,2015,1,8061,0.24
+Winnipeg,cma,2015Q2,2015,2,8062,0.23
+Winnipeg,cma,2015Q3,2015,3,8063,0.22
+Winnipeg,cma,2015Q4,2015,4,8064,0.26
+Winnipeg,cma,2016Q1,2016,1,8065,0.27
+Winnipeg,cma,2016Q2,2016,2,8066,0.29
+Winnipeg,cma,2016Q3,2016,3,8067,0.29
+Winnipeg,cma,2016Q4,2016,4,8068,0.29
+Winnipeg,cma,2017Q1,2017,1,8069,0.29
+Winnipeg,cma,2017Q2,2017,2,8070,0.27
+Winnipeg,cma,2017Q3,2017,3,8071,0.26
+Winnipeg,cma,2017Q4,2017,4,8072,0.24
+Winnipeg,cma,2018Q1,2018,1,8073,0.24
+Winnipeg,cma,2018Q2,2018,2,8074,0.26
+Winnipeg,cma,2018Q3,2018,3,8075,0.25
+Winnipeg,cma,2018Q4,2018,4,8076,0.28
+Winnipeg,cma,2019Q1,2019,1,8077,0.28
+Winnipeg,cma,2019Q2,2019,2,8078,0.27
+Winnipeg,cma,2019Q3,2019,3,8079,0.29
+Winnipeg,cma,2019Q4,2019,4,8080,0.31
+Winnipeg,cma,2020Q1,2020,1,8081,0.32
+Winnipeg,cma,2020Q2,2020,2,8082,0.32
+Winnipeg,cma,2020Q3,2020,3,8083,0.29
+Winnipeg,cma,2020Q4,2020,4,8084,0.24
+Winnipeg,cma,2021Q1,2021,1,8085,0.24
+Winnipeg,cma,2021Q2,2021,2,8086,0.21
+Winnipeg,cma,2021Q3,2021,3,8087,0.2
+Winnipeg,cma,2021Q4,2021,4,8088,0.19
+Winnipeg,cma,2022Q1,2022,1,8089,0.19
+Winnipeg,cma,2022Q2,2022,2,8090,0.17
+Winnipeg,cma,2022Q3,2022,3,8091,0.17
+Winnipeg,cma,2022Q4,2022,4,8092,0.17
+Winnipeg,cma,2023Q1,2023,1,8093,0.18
+Winnipeg,cma,2023Q2,2023,2,8094,0.18
+Winnipeg,cma,2023Q3,2023,3,8095,0.18
+Winnipeg,cma,2023Q4,2023,4,8096,0.2
+Winnipeg,cma,2024Q1,2024,1,8097,0.21
+Winnipeg,cma,2024Q2,2024,2,8098,0.2
+Winnipeg,cma,2024Q3,2024,3,8099,0.22
+Winnipeg,cma,2024Q4,2024,4,8100,0.23
+Winnipeg,cma,2025Q1,2025,1,8101,0.25
+Winnipeg,cma,2025Q2,2025,2,8102,0.23
+Winnipeg,cma,2025Q3,2025,3,8103,0.23
+Winnipeg,cma,2025Q4,2025,4,8104,0.25
+Canada,country,2012Q3,2012,3,8051,0.38
+Canada,country,2012Q4,2012,4,8052,0.37
+Canada,country,2013Q1,2013,1,8053,0.37
+Canada,country,2013Q2,2013,2,8054,0.35
+Canada,country,2013Q3,2013,3,8055,0.35
+Canada,country,2013Q4,2013,4,8056,0.35
+Canada,country,2014Q1,2014,1,8057,0.37
+Canada,country,2014Q2,2014,2,8058,0.34
+Canada,country,2014Q3,2014,3,8059,0.34
+Canada,country,2014Q4,2014,4,8060,0.35
+Canada,country,2015Q1,2015,1,8061,0.36
+Canada,country,2015Q2,2015,2,8062,0.35
+Canada,country,2015Q3,2015,3,8063,0.35
+Canada,country,2015Q4,2015,4,8064,0.35
+Canada,country,2016Q1,2016,1,8065,0.36
+Canada,country,2016Q2,2016,2,8066,0.35
+Canada,country,2016Q3,2016,3,8067,0.35
+Canada,country,2016Q4,2016,4,8068,0.34
+Canada,country,2017Q1,2017,1,8069,0.34
+Canada,country,2017Q2,2017,2,8070,0.32
+Canada,country,2017Q3,2017,3,8071,0.3
+Canada,country,2017Q4,2017,4,8072,0.29
+Canada,country,2018Q1,2018,1,8073,0.29
+Canada,country,2018Q2,2018,2,8074,0.28
+Canada,country,2018Q3,2018,3,8075,0.28
+Canada,country,2018Q4,2018,4,8076,0.3
+Canada,country,2019Q1,2019,1,8077,0.3
+Canada,country,2019Q2,2019,2,8078,0.29
+Canada,country,2019Q3,2019,3,8079,0.29
+Canada,country,2019Q4,2019,4,8080,0.29
+Canada,country,2020Q1,2020,1,8081,0.29
+Canada,country,2020Q2,2020,2,8082,0.29
+Canada,country,2020Q3,2020,3,8083,0.29
+Canada,country,2020Q4,2020,4,8084,0.25
+Canada,country,2021Q1,2021,1,8085,0.24
+Canada,country,2021Q2,2021,2,8086,0.21
+Canada,country,2021Q3,2021,3,8087,0.2
+Canada,country,2021Q4,2021,4,8088,0.19
+Canada,country,2022Q1,2022,1,8089,0.17
+Canada,country,2022Q2,2022,2,8090,0.16
+Canada,country,2022Q3,2022,3,8091,0.14
+Canada,country,2022Q4,2022,4,8092,0.14
+Canada,country,2023Q1,2023,1,8093,0.15
+Canada,country,2023Q2,2023,2,8094,0.15
+Canada,country,2023Q3,2023,3,8095,0.15
+Canada,country,2023Q4,2023,4,8096,0.17
+Canada,country,2024Q1,2024,1,8097,0.19
+Canada,country,2024Q2,2024,2,8098,0.19
+Canada,country,2024Q3,2024,3,8099,0.2
+Canada,country,2024Q4,2024,4,8100,0.21
+Canada,country,2025Q1,2025,1,8101,0.23
+Canada,country,2025Q2,2025,2,8102,0.22
+Canada,country,2025Q3,2025,3,8103,0.22
+Canada,country,2025Q4,2025,4,8104,0.24
+Alberta,province,2012Q3,2012,3,8051,0.6
+Alberta,province,2012Q4,2012,4,8052,0.55
+Alberta,province,2013Q1,2013,1,8053,0.52
+Alberta,province,2013Q2,2013,2,8054,0.47
+Alberta,province,2013Q3,2013,3,8055,0.45
+Alberta,province,2013Q4,2013,4,8056,0.43
+Alberta,province,2014Q1,2014,1,8057,0.42
+Alberta,province,2014Q2,2014,2,8058,0.37
+Alberta,province,2014Q3,2014,3,8059,0.34
+Alberta,province,2014Q4,2014,4,8060,0.32
+Alberta,province,2015Q1,2015,1,8061,0.32
+Alberta,province,2015Q2,2015,2,8062,0.33
+Alberta,province,2015Q3,2015,3,8063,0.35
+Alberta,province,2015Q4,2015,4,8064,0.36
+Alberta,province,2016Q1,2016,1,8065,0.41
+Alberta,province,2016Q2,2016,2,8066,0.45
+Alberta,province,2016Q3,2016,3,8067,0.53
+Alberta,province,2016Q4,2016,4,8068,0.53
+Alberta,province,2017Q1,2017,1,8069,0.54
+Alberta,province,2017Q2,2017,2,8070,0.52
+Alberta,province,2017Q3,2017,3,8071,0.51
+Alberta,province,2017Q4,2017,4,8072,0.5
+Alberta,province,2018Q1,2018,1,8073,0.5
+Alberta,province,2018Q2,2018,2,8074,0.46
+Alberta,province,2018Q3,2018,3,8075,0.47
+Alberta,province,2018Q4,2018,4,8076,0.5
+Alberta,province,2019Q1,2019,1,8077,0.5
+Alberta,province,2019Q2,2019,2,8078,0.51
+Alberta,province,2019Q3,2019,3,8079,0.5
+Alberta,province,2019Q4,2019,4,8080,0.49
+Alberta,province,2020Q1,2020,1,8081,0.51
+Alberta,province,2020Q2,2020,2,8082,0.51
+Alberta,province,2020Q3,2020,3,8083,0.49
+Alberta,province,2020Q4,2020,4,8084,0.44
+Alberta,province,2021Q1,2021,1,8085,0.45
+Alberta,province,2021Q2,2021,2,8086,0.42
+Alberta,province,2021Q3,2021,3,8087,0.41
+Alberta,province,2021Q4,2021,4,8088,0.41
+Alberta,province,2022Q1,2022,1,8089,0.38
+Alberta,province,2022Q2,2022,2,8090,0.34
+Alberta,province,2022Q3,2022,3,8091,0.31
+Alberta,province,2022Q4,2022,4,8092,0.3
+Alberta,province,2023Q1,2023,1,8093,0.3
+Alberta,province,2023Q2,2023,2,8094,0.28
+Alberta,province,2023Q3,2023,3,8095,0.27
+Alberta,province,2023Q4,2023,4,8096,0.28
+Alberta,province,2024Q1,2024,1,8097,0.28
+Alberta,province,2024Q2,2024,2,8098,0.28
+Alberta,province,2024Q3,2024,3,8099,0.26
+Alberta,province,2024Q4,2024,4,8100,0.27
+Alberta,province,2025Q1,2025,1,8101,0.28
+Alberta,province,2025Q2,2025,2,8102,0.26
+Alberta,province,2025Q3,2025,3,8103,0.25
+Alberta,province,2025Q4,2025,4,8104,0.25
+British Columbia,province,2012Q3,2012,3,8051,0.42
+British Columbia,province,2012Q4,2012,4,8052,0.42
+British Columbia,province,2013Q1,2013,1,8053,0.43
+British Columbia,province,2013Q2,2013,2,8054,0.43
+British Columbia,province,2013Q3,2013,3,8055,0.42
+British Columbia,province,2013Q4,2013,4,8056,0.43
+British Columbia,province,2014Q1,2014,1,8057,0.43
+British Columbia,province,2014Q2,2014,2,8058,0.4
+British Columbia,province,2014Q3,2014,3,8059,0.4
+British Columbia,province,2014Q4,2014,4,8060,0.4
+British Columbia,province,2015Q1,2015,1,8061,0.4
+British Columbia,province,2015Q2,2015,2,8062,0.38
+British Columbia,province,2015Q3,2015,3,8063,0.34
+British Columbia,province,2015Q4,2015,4,8064,0.32
+British Columbia,province,2016Q1,2016,1,8065,0.32
+British Columbia,province,2016Q2,2016,2,8066,0.29
+British Columbia,province,2016Q3,2016,3,8067,0.26
+British Columbia,province,2016Q4,2016,4,8068,0.25
+British Columbia,province,2017Q1,2017,1,8069,0.23
+British Columbia,province,2017Q2,2017,2,8070,0.2
+British Columbia,province,2017Q3,2017,3,8071,0.18
+British Columbia,province,2017Q4,2017,4,8072,0.18
+British Columbia,province,2018Q1,2018,1,8073,0.17
+British Columbia,province,2018Q2,2018,2,8074,0.17
+British Columbia,province,2018Q3,2018,3,8075,0.16
+British Columbia,province,2018Q4,2018,4,8076,0.17
+British Columbia,province,2019Q1,2019,1,8077,0.17
+British Columbia,province,2019Q2,2019,2,8078,0.16
+British Columbia,province,2019Q3,2019,3,8079,0.16
+British Columbia,province,2019Q4,2019,4,8080,0.16
+British Columbia,province,2020Q1,2020,1,8081,0.17
+British Columbia,province,2020Q2,2020,2,8082,0.18
+British Columbia,province,2020Q3,2020,3,8083,0.18
+British Columbia,province,2020Q4,2020,4,8084,0.16
+British Columbia,province,2021Q1,2021,1,8085,0.16
+British Columbia,province,2021Q2,2021,2,8086,0.14
+British Columbia,province,2021Q3,2021,3,8087,0.13
+British Columbia,province,2021Q4,2021,4,8088,0.13
+British Columbia,province,2022Q1,2022,1,8089,0.12
+British Columbia,province,2022Q2,2022,2,8090,0.11
+British Columbia,province,2022Q3,2022,3,8091,0.1
+British Columbia,province,2022Q4,2022,4,8092,0.1
+British Columbia,province,2023Q1,2023,1,8093,0.11
+British Columbia,province,2023Q2,2023,2,8094,0.11
+British Columbia,province,2023Q3,2023,3,8095,0.11
+British Columbia,province,2023Q4,2023,4,8096,0.13
+British Columbia,province,2024Q1,2024,1,8097,0.15
+British Columbia,province,2024Q2,2024,2,8098,0.16
+British Columbia,province,2024Q3,2024,3,8099,0.16
+British Columbia,province,2024Q4,2024,4,8100,0.17
+British Columbia,province,2025Q1,2025,1,8101,0.19
+British Columbia,province,2025Q2,2025,2,8102,0.19
+British Columbia,province,2025Q3,2025,3,8103,0.19
+British Columbia,province,2025Q4,2025,4,8104,0.21
+Manitoba,province,2012Q3,2012,3,8051,0.25
+Manitoba,province,2012Q4,2012,4,8052,0.27
+Manitoba,province,2013Q1,2013,1,8053,0.28
+Manitoba,province,2013Q2,2013,2,8054,0.26
+Manitoba,province,2013Q3,2013,3,8055,0.28
+Manitoba,province,2013Q4,2013,4,8056,0.28
+Manitoba,province,2014Q1,2014,1,8057,0.28
+Manitoba,province,2014Q2,2014,2,8058,0.25
+Manitoba,province,2014Q3,2014,3,8059,0.24
+Manitoba,province,2014Q4,2014,4,8060,0.27
+Manitoba,province,2015Q1,2015,1,8061,0.31
+Manitoba,province,2015Q2,2015,2,8062,0.3
+Manitoba,province,2015Q3,2015,3,8063,0.29
+Manitoba,province,2015Q4,2015,4,8064,0.33
+Manitoba,province,2016Q1,2016,1,8065,0.34
+Manitoba,province,2016Q2,2016,2,8066,0.35
+Manitoba,province,2016Q3,2016,3,8067,0.34
+Manitoba,province,2016Q4,2016,4,8068,0.35
+Manitoba,province,2017Q1,2017,1,8069,0.36
+Manitoba,province,2017Q2,2017,2,8070,0.35
+Manitoba,province,2017Q3,2017,3,8071,0.33
+Manitoba,province,2017Q4,2017,4,8072,0.3
+Manitoba,province,2018Q1,2018,1,8073,0.3
+Manitoba,province,2018Q2,2018,2,8074,0.31
+Manitoba,province,2018Q3,2018,3,8075,0.32
+Manitoba,province,2018Q4,2018,4,8076,0.35
+Manitoba,province,2019Q1,2019,1,8077,0.35
+Manitoba,province,2019Q2,2019,2,8078,0.34
+Manitoba,province,2019Q3,2019,3,8079,0.34
+Manitoba,province,2019Q4,2019,4,8080,0.36
+Manitoba,province,2020Q1,2020,1,8081,0.36
+Manitoba,province,2020Q2,2020,2,8082,0.37
+Manitoba,province,2020Q3,2020,3,8083,0.35
+Manitoba,province,2020Q4,2020,4,8084,0.3
+Manitoba,province,2021Q1,2021,1,8085,0.29
+Manitoba,province,2021Q2,2021,2,8086,0.25
+Manitoba,province,2021Q3,2021,3,8087,0.23
+Manitoba,province,2021Q4,2021,4,8088,0.23
+Manitoba,province,2022Q1,2022,1,8089,0.22
+Manitoba,province,2022Q2,2022,2,8090,0.2
+Manitoba,province,2022Q3,2022,3,8091,0.2
+Manitoba,province,2022Q4,2022,4,8092,0.2
+Manitoba,province,2023Q1,2023,1,8093,0.21
+Manitoba,province,2023Q2,2023,2,8094,0.2
+Manitoba,province,2023Q3,2023,3,8095,0.22
+Manitoba,province,2023Q4,2023,4,8096,0.22
+Manitoba,province,2024Q1,2024,1,8097,0.24
+Manitoba,province,2024Q2,2024,2,8098,0.23
+Manitoba,province,2024Q3,2024,3,8099,0.25
+Manitoba,province,2024Q4,2024,4,8100,0.26
+Manitoba,province,2025Q1,2025,1,8101,0.27
+Manitoba,province,2025Q2,2025,2,8102,0.26
+Manitoba,province,2025Q3,2025,3,8103,0.26
+Manitoba,province,2025Q4,2025,4,8104,0.28
+New Brunswick,province,2012Q3,2012,3,8051,0.63
+New Brunswick,province,2012Q4,2012,4,8052,0.63
+New Brunswick,province,2013Q1,2013,1,8053,0.65
+New Brunswick,province,2013Q2,2013,2,8054,0.6
+New Brunswick,province,2013Q3,2013,3,8055,0.61
+New Brunswick,province,2013Q4,2013,4,8056,0.68
+New Brunswick,province,2014Q1,2014,1,8057,0.72
+New Brunswick,province,2014Q2,2014,2,8058,0.67
+New Brunswick,province,2014Q3,2014,3,8059,0.72
+New Brunswick,province,2014Q4,2014,4,8060,0.72
+New Brunswick,province,2015Q1,2015,1,8061,0.79
+New Brunswick,province,2015Q2,2015,2,8062,0.8
+New Brunswick,province,2015Q3,2015,3,8063,0.81
+New Brunswick,province,2015Q4,2015,4,8064,0.79
+New Brunswick,province,2016Q1,2016,1,8065,0.82
+New Brunswick,province,2016Q2,2016,2,8066,0.78
+New Brunswick,province,2016Q3,2016,3,8067,0.84
+New Brunswick,province,2016Q4,2016,4,8068,0.79
+New Brunswick,province,2017Q1,2017,1,8069,0.78
+New Brunswick,province,2017Q2,2017,2,8070,0.73
+New Brunswick,province,2017Q3,2017,3,8071,0.71
+New Brunswick,province,2017Q4,2017,4,8072,0.66
+New Brunswick,province,2018Q1,2018,1,8073,0.65
+New Brunswick,province,2018Q2,2018,2,8074,0.59
+New Brunswick,province,2018Q3,2018,3,8075,0.58
+New Brunswick,province,2018Q4,2018,4,8076,0.62
+New Brunswick,province,2019Q1,2019,1,8077,0.63
+New Brunswick,province,2019Q2,2019,2,8078,0.6
+New Brunswick,province,2019Q3,2019,3,8079,0.57
+New Brunswick,province,2019Q4,2019,4,8080,0.57
+New Brunswick,province,2020Q1,2020,1,8081,0.57
+New Brunswick,province,2020Q2,2020,2,8082,0.54
+New Brunswick,province,2020Q3,2020,3,8083,0.52
+New Brunswick,province,2020Q4,2020,4,8084,0.43
+New Brunswick,province,2021Q1,2021,1,8085,0.44
+New Brunswick,province,2021Q2,2021,2,8086,0.37
+New Brunswick,province,2021Q3,2021,3,8087,0.3
+New Brunswick,province,2021Q4,2021,4,8088,0.27
+New Brunswick,province,2022Q1,2022,1,8089,0.25
+New Brunswick,province,2022Q2,2022,2,8090,0.23
+New Brunswick,province,2022Q3,2022,3,8091,0.23
+New Brunswick,province,2022Q4,2022,4,8092,0.23
+New Brunswick,province,2023Q1,2023,1,8093,0.23
+New Brunswick,province,2023Q2,2023,2,8094,0.21
+New Brunswick,province,2023Q3,2023,3,8095,0.27
+New Brunswick,province,2023Q4,2023,4,8096,0.31
+New Brunswick,province,2024Q1,2024,1,8097,0.31
+New Brunswick,province,2024Q2,2024,2,8098,0.3
+New Brunswick,province,2024Q3,2024,3,8099,0.27
+New Brunswick,province,2024Q4,2024,4,8100,0.26
+New Brunswick,province,2025Q1,2025,1,8101,0.26
+New Brunswick,province,2025Q2,2025,2,8102,0.23
+New Brunswick,province,2025Q3,2025,3,8103,0.24
+New Brunswick,province,2025Q4,2025,4,8104,0.28
+Newfoundland,province,2012Q3,2012,3,8051,0.24
+Newfoundland,province,2012Q4,2012,4,8052,0.22
+Newfoundland,province,2013Q1,2013,1,8053,0.25
+Newfoundland,province,2013Q2,2013,2,8054,0.19
+Newfoundland,province,2013Q3,2013,3,8055,0.2
+Newfoundland,province,2013Q4,2013,4,8056,0.22
+Newfoundland,province,2014Q1,2014,1,8057,0.23
+Newfoundland,province,2014Q2,2014,2,8058,0.25
+Newfoundland,province,2014Q3,2014,3,8059,0.26
+Newfoundland,province,2014Q4,2014,4,8060,0.28
+Newfoundland,province,2015Q1,2015,1,8061,0.37
+Newfoundland,province,2015Q2,2015,2,8062,0.37
+Newfoundland,province,2015Q3,2015,3,8063,0.37
+Newfoundland,province,2015Q4,2015,4,8064,0.41
+Newfoundland,province,2016Q1,2016,1,8065,0.45
+Newfoundland,province,2016Q2,2016,2,8066,0.46
+Newfoundland,province,2016Q3,2016,3,8067,0.49
+Newfoundland,province,2016Q4,2016,4,8068,0.46
+Newfoundland,province,2017Q1,2017,1,8069,0.47
+Newfoundland,province,2017Q2,2017,2,8070,0.47
+Newfoundland,province,2017Q3,2017,3,8071,0.46
+Newfoundland,province,2017Q4,2017,4,8072,0.52
+Newfoundland,province,2018Q1,2018,1,8073,0.56
+Newfoundland,province,2018Q2,2018,2,8074,0.6
+Newfoundland,province,2018Q3,2018,3,8075,0.6
+Newfoundland,province,2018Q4,2018,4,8076,0.62
+Newfoundland,province,2019Q1,2019,1,8077,0.64
+Newfoundland,province,2019Q2,2019,2,8078,0.64
+Newfoundland,province,2019Q3,2019,3,8079,0.64
+Newfoundland,province,2019Q4,2019,4,8080,0.65
+Newfoundland,province,2020Q1,2020,1,8081,0.66
+Newfoundland,province,2020Q2,2020,2,8082,0.68
+Newfoundland,province,2020Q3,2020,3,8083,0.63
+Newfoundland,province,2020Q4,2020,4,8084,0.5
+Newfoundland,province,2021Q1,2021,1,8085,0.51
+Newfoundland,province,2021Q2,2021,2,8086,0.46
+Newfoundland,province,2021Q3,2021,3,8087,0.44
+Newfoundland,province,2021Q4,2021,4,8088,0.46
+Newfoundland,province,2022Q1,2022,1,8089,0.4
+Newfoundland,province,2022Q2,2022,2,8090,0.35
+Newfoundland,province,2022Q3,2022,3,8091,0.31
+Newfoundland,province,2022Q4,2022,4,8092,0.34
+Newfoundland,province,2023Q1,2023,1,8093,0.37
+Newfoundland,province,2023Q2,2023,2,8094,0.33
+Newfoundland,province,2023Q3,2023,3,8095,0.32
+Newfoundland,province,2023Q4,2023,4,8096,0.35
+Newfoundland,province,2024Q1,2024,1,8097,0.35
+Newfoundland,province,2024Q2,2024,2,8098,0.34
+Newfoundland,province,2024Q3,2024,3,8099,0.37
+Newfoundland,province,2024Q4,2024,4,8100,0.38
+Newfoundland,province,2025Q1,2025,1,8101,0.38
+Newfoundland,province,2025Q2,2025,2,8102,0.33
+Newfoundland,province,2025Q3,2025,3,8103,0.3
+Newfoundland,province,2025Q4,2025,4,8104,0.3
+Nova Scotia,province,2012Q3,2012,3,8051,0.53
+Nova Scotia,province,2012Q4,2012,4,8052,0.53
+Nova Scotia,province,2013Q1,2013,1,8053,0.55
+Nova Scotia,province,2013Q2,2013,2,8054,0.56
+Nova Scotia,province,2013Q3,2013,3,8055,0.58
+Nova Scotia,province,2013Q4,2013,4,8056,0.62
+Nova Scotia,province,2014Q1,2014,1,8057,0.65
+Nova Scotia,province,2014Q2,2014,2,8058,0.65
+Nova Scotia,province,2014Q3,2014,3,8059,0.67
+Nova Scotia,province,2014Q4,2014,4,8060,0.68
+Nova Scotia,province,2015Q1,2015,1,8061,0.7
+Nova Scotia,province,2015Q2,2015,2,8062,0.67
+Nova Scotia,province,2015Q3,2015,3,8063,0.66
+Nova Scotia,province,2015Q4,2015,4,8064,0.68
+Nova Scotia,province,2016Q1,2016,1,8065,0.7
+Nova Scotia,province,2016Q2,2016,2,8066,0.72
+Nova Scotia,province,2016Q3,2016,3,8067,0.76
+Nova Scotia,province,2016Q4,2016,4,8068,0.75
+Nova Scotia,province,2017Q1,2017,1,8069,0.7
+Nova Scotia,province,2017Q2,2017,2,8070,0.64
+Nova Scotia,province,2017Q3,2017,3,8071,0.6
+Nova Scotia,province,2017Q4,2017,4,8072,0.58
+Nova Scotia,province,2018Q1,2018,1,8073,0.59
+Nova Scotia,province,2018Q2,2018,2,8074,0.54
+Nova Scotia,province,2018Q3,2018,3,8075,0.52
+Nova Scotia,province,2018Q4,2018,4,8076,0.56
+Nova Scotia,province,2019Q1,2019,1,8077,0.53
+Nova Scotia,province,2019Q2,2019,2,8078,0.52
+Nova Scotia,province,2019Q3,2019,3,8079,0.5
+Nova Scotia,province,2019Q4,2019,4,8080,0.49
+Nova Scotia,province,2020Q1,2020,1,8081,0.45
+Nova Scotia,province,2020Q2,2020,2,8082,0.46
+Nova Scotia,province,2020Q3,2020,3,8083,0.44
+Nova Scotia,province,2020Q4,2020,4,8084,0.37
+Nova Scotia,province,2021Q1,2021,1,8085,0.35
+Nova Scotia,province,2021Q2,2021,2,8086,0.3
+Nova Scotia,province,2021Q3,2021,3,8087,0.27
+Nova Scotia,province,2021Q4,2021,4,8088,0.26
+Nova Scotia,province,2022Q1,2022,1,8089,0.24
+Nova Scotia,province,2022Q2,2022,2,8090,0.23
+Nova Scotia,province,2022Q3,2022,3,8091,0.23
+Nova Scotia,province,2022Q4,2022,4,8092,0.22
+Nova Scotia,province,2023Q1,2023,1,8093,0.22
+Nova Scotia,province,2023Q2,2023,2,8094,0.2
+Nova Scotia,province,2023Q3,2023,3,8095,0.22
+Nova Scotia,province,2023Q4,2023,4,8096,0.24
+Nova Scotia,province,2024Q1,2024,1,8097,0.24
+Nova Scotia,province,2024Q2,2024,2,8098,0.25
+Nova Scotia,province,2024Q3,2024,3,8099,0.26
+Nova Scotia,province,2024Q4,2024,4,8100,0.28
+Nova Scotia,province,2025Q1,2025,1,8101,0.28
+Nova Scotia,province,2025Q2,2025,2,8102,0.27
+Nova Scotia,province,2025Q3,2025,3,8103,0.25
+Nova Scotia,province,2025Q4,2025,4,8104,0.25
+Ontario,province,2012Q3,2012,3,8051,0.31
+Ontario,province,2012Q4,2012,4,8052,0.31
+Ontario,province,2013Q1,2013,1,8053,0.31
+Ontario,province,2013Q2,2013,2,8054,0.29
+Ontario,province,2013Q3,2013,3,8055,0.28
+Ontario,province,2013Q4,2013,4,8056,0.28
+Ontario,province,2014Q1,2014,1,8057,0.29
+Ontario,province,2014Q2,2014,2,8058,0.27
+Ontario,province,2014Q3,2014,3,8059,0.27
+Ontario,province,2014Q4,2014,4,8060,0.26
+Ontario,province,2015Q1,2015,1,8061,0.27
+Ontario,province,2015Q2,2015,2,8062,0.25
+Ontario,province,2015Q3,2015,3,8063,0.24
+Ontario,province,2015Q4,2015,4,8064,0.23
+Ontario,province,2016Q1,2016,1,8065,0.24
+Ontario,province,2016Q2,2016,2,8066,0.22
+Ontario,province,2016Q3,2016,3,8067,0.2
+Ontario,province,2016Q4,2016,4,8068,0.19
+Ontario,province,2017Q1,2017,1,8069,0.18
+Ontario,province,2017Q2,2017,2,8070,0.16
+Ontario,province,2017Q3,2017,3,8071,0.16
+Ontario,province,2017Q4,2017,4,8072,0.15
+Ontario,province,2018Q1,2018,1,8073,0.15
+Ontario,province,2018Q2,2018,2,8074,0.14
+Ontario,province,2018Q3,2018,3,8075,0.13
+Ontario,province,2018Q4,2018,4,8076,0.14
+Ontario,province,2019Q1,2019,1,8077,0.13
+Ontario,province,2019Q2,2019,2,8078,0.13
+Ontario,province,2019Q3,2019,3,8079,0.13
+Ontario,province,2019Q4,2019,4,8080,0.14
+Ontario,province,2020Q1,2020,1,8081,0.13
+Ontario,province,2020Q2,2020,2,8082,0.14
+Ontario,province,2020Q3,2020,3,8083,0.14
+Ontario,province,2020Q4,2020,4,8084,0.12
+Ontario,province,2021Q1,2021,1,8085,0.12
+Ontario,province,2021Q2,2021,2,8086,0.1
+Ontario,province,2021Q3,2021,3,8087,0.09
+Ontario,province,2021Q4,2021,4,8088,0.08
+Ontario,province,2022Q1,2022,1,8089,0.08
+Ontario,province,2022Q2,2022,2,8090,0.07
+Ontario,province,2022Q3,2022,3,8091,0.07
+Ontario,province,2022Q4,2022,4,8092,0.08
+Ontario,province,2023Q1,2023,1,8093,0.09
+Ontario,province,2023Q2,2023,2,8094,0.09
+Ontario,province,2023Q3,2023,3,8095,0.1
+Ontario,province,2023Q4,2023,4,8096,0.13
+Ontario,province,2024Q1,2024,1,8097,0.15
+Ontario,province,2024Q2,2024,2,8098,0.16
+Ontario,province,2024Q3,2024,3,8099,0.18
+Ontario,province,2024Q4,2024,4,8100,0.2
+Ontario,province,2025Q1,2025,1,8101,0.22
+Ontario,province,2025Q2,2025,2,8102,0.23
+Ontario,province,2025Q3,2025,3,8103,0.24
+Ontario,province,2025Q4,2025,4,8104,0.27
+Prince Edward Island,province,2012Q3,2012,3,8051,0.57
+Prince Edward Island,province,2012Q4,2012,4,8052,0.5
+Prince Edward Island,province,2013Q1,2013,1,8053,0.55
+Prince Edward Island,province,2013Q2,2013,2,8054,0.47
+Prince Edward Island,province,2013Q3,2013,3,8055,0.56
+Prince Edward Island,province,2013Q4,2013,4,8056,0.58
+Prince Edward Island,province,2014Q1,2014,1,8057,0.6
+Prince Edward Island,province,2014Q2,2014,2,8058,0.6
+Prince Edward Island,province,2014Q3,2014,3,8059,0.56
+Prince Edward Island,province,2014Q4,2014,4,8060,0.57
+Prince Edward Island,province,2015Q1,2015,1,8061,0.68
+Prince Edward Island,province,2015Q2,2015,2,8062,0.62
+Prince Edward Island,province,2015Q3,2015,3,8063,0.63
+Prince Edward Island,province,2015Q4,2015,4,8064,0.67
+Prince Edward Island,province,2016Q1,2016,1,8065,0.7
+Prince Edward Island,province,2016Q2,2016,2,8066,0.7
+Prince Edward Island,province,2016Q3,2016,3,8067,0.67
+Prince Edward Island,province,2016Q4,2016,4,8068,0.6
+Prince Edward Island,province,2017Q1,2017,1,8069,0.66
+Prince Edward Island,province,2017Q2,2017,2,8070,0.55
+Prince Edward Island,province,2017Q3,2017,3,8071,0.54
+Prince Edward Island,province,2017Q4,2017,4,8072,0.44
+Prince Edward Island,province,2018Q1,2018,1,8073,0.5
+Prince Edward Island,province,2018Q2,2018,2,8074,0.45
+Prince Edward Island,province,2018Q3,2018,3,8075,0.43
+Prince Edward Island,province,2018Q4,2018,4,8076,0.39
+Prince Edward Island,province,2019Q1,2019,1,8077,0.38
+Prince Edward Island,province,2019Q2,2019,2,8078,0.38
+Prince Edward Island,province,2019Q3,2019,3,8079,0.33
+Prince Edward Island,province,2019Q4,2019,4,8080,0.31
+Prince Edward Island,province,2020Q1,2020,1,8081,0.25
+Prince Edward Island,province,2020Q2,2020,2,8082,0.26
+Prince Edward Island,province,2020Q3,2020,3,8083,0.27
+Prince Edward Island,province,2020Q4,2020,4,8084,0.2
+Prince Edward Island,province,2021Q1,2021,1,8085,0.22
+Prince Edward Island,province,2021Q2,2021,2,8086,0.17
+Prince Edward Island,province,2021Q3,2021,3,8087,0.17
+Prince Edward Island,province,2021Q4,2021,4,8088,0.14
+Prince Edward Island,province,2022Q1,2022,1,8089,0.15
+Prince Edward Island,province,2022Q2,2022,2,8090,0.14
+Prince Edward Island,province,2022Q3,2022,3,8091,0.13
+Prince Edward Island,province,2022Q4,2022,4,8092,0.13
+Prince Edward Island,province,2023Q1,2023,1,8093,0.11
+Prince Edward Island,province,2023Q2,2023,2,8094,0.15
+Prince Edward Island,province,2023Q3,2023,3,8095,0.11
+Prince Edward Island,province,2023Q4,2023,4,8096,0.13
+Prince Edward Island,province,2024Q1,2024,1,8097,0.15
+Prince Edward Island,province,2024Q2,2024,2,8098,0.16
+Prince Edward Island,province,2024Q3,2024,3,8099,0.19
+Prince Edward Island,province,2024Q4,2024,4,8100,0.23
+Prince Edward Island,province,2025Q1,2025,1,8101,0.18
+Prince Edward Island,province,2025Q2,2025,2,8102,0.2
+Prince Edward Island,province,2025Q3,2025,3,8103,0.17
+Prince Edward Island,province,2025Q4,2025,4,8104,0.2
+Québec,province,2012Q3,2012,3,8051,0.33
+Québec,province,2012Q4,2012,4,8052,0.33
+Québec,province,2013Q1,2013,1,8053,0.35
+Québec,province,2013Q2,2013,2,8054,0.34
+Québec,province,2013Q3,2013,3,8055,0.33
+Québec,province,2013Q4,2013,4,8056,0.35
+Québec,province,2014Q1,2014,1,8057,0.37
+Québec,province,2014Q2,2014,2,8058,0.36
+Québec,province,2014Q3,2014,3,8059,0.37
+Québec,province,2014Q4,2014,4,8060,0.39
+Québec,province,2015Q1,2015,1,8061,0.42
+Québec,province,2015Q2,2015,2,8062,0.41
+Québec,province,2015Q3,2015,3,8063,0.41
+Québec,province,2015Q4,2015,4,8064,0.42
+Québec,province,2016Q1,2016,1,8065,0.44
+Québec,province,2016Q2,2016,2,8066,0.43
+Québec,province,2016Q3,2016,3,8067,0.42
+Québec,province,2016Q4,2016,4,8068,0.4
+Québec,province,2017Q1,2017,1,8069,0.41
+Québec,province,2017Q2,2017,2,8070,0.4
+Québec,province,2017Q3,2017,3,8071,0.37
+Québec,province,2017Q4,2017,4,8072,0.34
+Québec,province,2018Q1,2018,1,8073,0.34
+Québec,province,2018Q2,2018,2,8074,0.35
+Québec,province,2018Q3,2018,3,8075,0.35
+Québec,province,2018Q4,2018,4,8076,0.38
+Québec,province,2019Q1,2019,1,8077,0.38
+Québec,province,2019Q2,2019,2,8078,0.36
+Québec,province,2019Q3,2019,3,8079,0.36
+Québec,province,2019Q4,2019,4,8080,0.36
+Québec,province,2020Q1,2020,1,8081,0.35
+Québec,province,2020Q2,2020,2,8082,0.34
+Québec,province,2020Q3,2020,3,8083,0.35
+Québec,province,2020Q4,2020,4,8084,0.3
+Québec,province,2021Q1,2021,1,8085,0.28
+Québec,province,2021Q2,2021,2,8086,0.24
+Québec,province,2021Q3,2021,3,8087,0.22
+Québec,province,2021Q4,2021,4,8088,0.2
+Québec,province,2022Q1,2022,1,8089,0.18
+Québec,province,2022Q2,2022,2,8090,0.15
+Québec,province,2022Q3,2022,3,8091,0.13
+Québec,province,2022Q4,2022,4,8092,0.12
+Québec,province,2023Q1,2023,1,8093,0.13
+Québec,province,2023Q2,2023,2,8094,0.13
+Québec,province,2023Q3,2023,3,8095,0.13
+Québec,province,2023Q4,2023,4,8096,0.15
+Québec,province,2024Q1,2024,1,8097,0.17
+Québec,province,2024Q2,2024,2,8098,0.17
+Québec,province,2024Q3,2024,3,8099,0.17
+Québec,province,2024Q4,2024,4,8100,0.18
+Québec,province,2025Q1,2025,1,8101,0.19
+Québec,province,2025Q2,2025,2,8102,0.18
+Québec,province,2025Q3,2025,3,8103,0.17
+Québec,province,2025Q4,2025,4,8104,0.18
+Saskatchewan,province,2012Q3,2012,3,8051,0.37
+Saskatchewan,province,2012Q4,2012,4,8052,0.37
+Saskatchewan,province,2013Q1,2013,1,8053,0.36
+Saskatchewan,province,2013Q2,2013,2,8054,0.34
+Saskatchewan,province,2013Q3,2013,3,8055,0.3
+Saskatchewan,province,2013Q4,2013,4,8056,0.32
+Saskatchewan,province,2014Q1,2014,1,8057,0.35
+Saskatchewan,province,2014Q2,2014,2,8058,0.31
+Saskatchewan,province,2014Q3,2014,3,8059,0.32
+Saskatchewan,province,2014Q4,2014,4,8060,0.36
+Saskatchewan,province,2015Q1,2015,1,8061,0.41
+Saskatchewan,province,2015Q2,2015,2,8062,0.43
+Saskatchewan,province,2015Q3,2015,3,8063,0.45
+Saskatchewan,province,2015Q4,2015,4,8064,0.49
+Saskatchewan,province,2016Q1,2016,1,8065,0.54
+Saskatchewan,province,2016Q2,2016,2,8066,0.57
+Saskatchewan,province,2016Q3,2016,3,8067,0.61
+Saskatchewan,province,2016Q4,2016,4,8068,0.62
+Saskatchewan,province,2017Q1,2017,1,8069,0.62
+Saskatchewan,province,2017Q2,2017,2,8070,0.66
+Saskatchewan,province,2017Q3,2017,3,8071,0.65
+Saskatchewan,province,2017Q4,2017,4,8072,0.66
+Saskatchewan,province,2018Q1,2018,1,8073,0.66
+Saskatchewan,province,2018Q2,2018,2,8074,0.67
+Saskatchewan,province,2018Q3,2018,3,8075,0.7
+Saskatchewan,province,2018Q4,2018,4,8076,0.72
+Saskatchewan,province,2019Q1,2019,1,8077,0.73
+Saskatchewan,province,2019Q2,2019,2,8078,0.74
+Saskatchewan,province,2019Q3,2019,3,8079,0.72
+Saskatchewan,province,2019Q4,2019,4,8080,0.72
+Saskatchewan,province,2020Q1,2020,1,8081,0.74
+Saskatchewan,province,2020Q2,2020,2,8082,0.75
+Saskatchewan,province,2020Q3,2020,3,8083,0.72
+Saskatchewan,province,2020Q4,2020,4,8084,0.63
+Saskatchewan,province,2021Q1,2021,1,8085,0.63
+Saskatchewan,province,2021Q2,2021,2,8086,0.57
+Saskatchewan,province,2021Q3,2021,3,8087,0.52
+Saskatchewan,province,2021Q4,2021,4,8088,0.5
+Saskatchewan,province,2022Q1,2022,1,8089,0.51
+Saskatchewan,province,2022Q2,2022,2,8090,0.5
+Saskatchewan,province,2022Q3,2022,3,8091,0.52
+Saskatchewan,province,2022Q4,2022,4,8092,0.51
+Saskatchewan,province,2023Q1,2023,1,8093,0.51
+Saskatchewan,province,2023Q2,2023,2,8094,0.46
+Saskatchewan,province,2023Q3,2023,3,8095,0.44
+Saskatchewan,province,2023Q4,2023,4,8096,0.46
+Saskatchewan,province,2024Q1,2024,1,8097,0.49
+Saskatchewan,province,2024Q2,2024,2,8098,0.46
+Saskatchewan,province,2024Q3,2024,3,8099,0.44
+Saskatchewan,province,2024Q4,2024,4,8100,0.44
+Saskatchewan,province,2025Q1,2025,1,8101,0.44
+Saskatchewan,province,2025Q2,2025,2,8102,0.41
+Saskatchewan,province,2025Q3,2025,3,8103,0.4
+Saskatchewan,province,2025Q4,2025,4,8104,0.41

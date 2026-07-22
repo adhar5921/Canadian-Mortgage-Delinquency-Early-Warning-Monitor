@@ -1,0 +1,4 @@
+geography_type,row_count,geography_count,quarter_count,first_quarter,latest_quarter,missing_rates,duplicate_keys
+country,54,1,54,2012Q3,2025Q4,0,0
+province,540,10,54,2012Q3,2025Q4,0,0
+cma,1836,34,54,2012Q3,2025Q4,0,0

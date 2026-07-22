@@ -1,0 +1,11 @@
+geography,quarter,latest_rate_pct,one_year_change_pp,two_year_change_pp,current_rate_rank,two_year_momentum_rank
+Saskatchewan,2025Q4,0.41,-0.03,-0.05,1,10
+Newfoundland,2025Q4,0.3,-0.08,-0.05,2,9
+Manitoba,2025Q4,0.28,0.02,0.06,3,4
+New Brunswick,2025Q4,0.28,0.02,-0.03,3,7
+Ontario,2025Q4,0.27,0.07,0.14,5,1
+Nova Scotia,2025Q4,0.25,-0.03,0.01,6,6
+Alberta,2025Q4,0.25,-0.02,-0.03,6,8
+British Columbia,2025Q4,0.21,0.04,0.08,8,2
+Prince Edward Island,2025Q4,0.2,-0.03,0.07,9,3
+Québec,2025Q4,0.18,0.0,0.03,10,5
